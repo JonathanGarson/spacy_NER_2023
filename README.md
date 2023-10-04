@@ -3,6 +3,12 @@ accord_extraction
 
 A NLP model to extract numbers from business agreements
 
+*****
+
+Quick nota bene :
+- to convert docx files to txt format please use "convert_txt.py"
+- to clean the txt files once they have been converted to txt format by "convert_txt.py" use : "clean_txt.py"
+
 Project Organization
 ------------
 
