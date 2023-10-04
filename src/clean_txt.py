@@ -32,12 +32,22 @@ def shorten_filename(file, output_directory):
     # Use shutil.move to overwrite existing files
     shutil.move(file, output_file)
 
-# Path to the directory containing the .txt files
-input_directory = os.path.join(r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
-output_directory = os.path.join(r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
+# FUNCTION VERSION OF THE PYTHON SCRIPT
+def clean_auto(input_directory, output_directory):
+    files = glob.glob(os.path.join(input_directory, '*.txt'))
+    for file in tqdm(files, desc='Cleaning files', unit='files'):
+        # Apply the shorten_filename to each file.
+        clean_txt(file)
+        shorten_filename(file, output_directory)
 
-files = glob.glob(os.path.join(input_directory, '*.txt'))
-for file in tqdm(files, desc='Cleaning files', unit='files'):
-    # Apply the shorten_filename to each file.
-    clean_txt(file)
-    shorten_filename(file, output_directory)
+# TO AUTOMATE THE CLEANING OF THE TXT FILES
+# Path to the directory containing the .txt files
+# input_directory = os.path.join(ROOT_PATH, r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
+# output_directory = os.path.join(ROOT_PATH, r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
+
+# files = glob.glob(os.path.join(input_directory, '*.txt'))
+
+# for file in tqdm(files, desc='Cleaning files', unit='files'):
+#     # Apply the shorten_filename to each file.
+#     clean_txt(file)
+#     shorten_filename(file, output_directory)
