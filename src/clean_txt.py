@@ -3,6 +3,9 @@ import glob
 from tqdm import tqdm
 import shutil
 
+# Define the ROOT_PATH
+ROOT_PATH = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
+
 def clean_txt(file):
     """
     Clean the files of their \n, \t, \r, and make them lowercase.
@@ -30,8 +33,8 @@ def shorten_filename(file, output_directory):
     shutil.move(file, output_file)
 
 # Path to the directory containing the .txt files
-input_directory = r'C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\docx\2022_2023\2022_2023_all\Subset_1\text'
-output_directory = r'C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\docx\2022_2023\2022_2023_all\Subset_1\text'
+input_directory = os.path.join(r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
+output_directory = os.path.join(r'data\docx\2022_2023\2022_2023_all\Subset_1\text')
 
 files = glob.glob(os.path.join(input_directory, '*.txt'))
 for file in tqdm(files, desc='Cleaning files', unit='files'):

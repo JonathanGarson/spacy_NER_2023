@@ -7,6 +7,9 @@ import glob
 import shutil
 from tqdm import tqdm
 
+# Define the ROOT_PATH
+ROOT_PATH = r"C:\Users\garsonj\Desktop\Finetuning"
+
 def move_files(input_directory, output_directory):
     for file in os.listdir(input_directory):
         if file.endswith(".txt"):
@@ -26,17 +29,16 @@ def shorten_name(file):
     old_name = os.path.basename(file)[0:27]  # Get the file name with extension
     new_name = old_name + ".txt"
     os.rename(file, new_name)
-    move_files(r"C:\Users\garsonj\Desktop\Finetuning", output_directory)
+    move_files(os.path.join(ROOT_PATH, output_directory))
         
-directory = glob.glob(r"C:\Users\garsonj\Desktop\Finetuning\BERT\txt\*.txt")
-output_directory = r"C:\Users\garsonj\Desktop\Finetuning\BERT\cleaned_txt"
+directory = glob.glob(os.path.join(ROOT_PATH, r"BERT\txt\*.txt"))
+output_directory = os.path.join(ROOT_PATH, r"BERT\cleaned_txt")
+directory_clean = glob.glob(rf"{output_directory}\*.txt")
 
 for file in tqdm(directory, desc="Cleaning text files", unit="files"):
     clean_file(file)
 
 move_files(r"C:\Users\garsonj\Desktop\Finetuning\BERT\txt", output_directory)
-
-directory_clean = glob.glob(r"C:\Users\garsonj\Desktop\Finetuning\BERT\cleaned_txt\*.txt")
 
 for file in tqdm(directory_clean, desc="Shortening file names", unit="files"):
     shorten_name(file)

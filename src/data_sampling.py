@@ -94,8 +94,8 @@ save_subsets_to_txt(subsets, docx_output_path)
 
 # Create directories and move the corresponding list to them
 for i, subset in enumerate(subsets, start=1):
-    subset_directory = f"C:\\Users\\garsonj\\Desktop\\spacy_finetuning\\spacy_files\\docx\\2017_2021\\Subset_{i}"
-    txt_file = f"C:\\Users\\garsonj\\Desktop\\spacy_finetuning\\spacy_files\\docx\\Liste{i}.txt"
+    subset_directory = f"{docx_output_path}\\2017_2021\\Subset_{i}"
+    txt_file = f"{docx_output_path}\\Liste{i}.txt"
     
     # Remove existing directory and its contents (if it exists)
     if os.path.exists(subset_directory):
@@ -109,12 +109,12 @@ for i, subset in enumerate(subsets, start=1):
 
 # Now we make a copy of the Recup_FichiersAccordes.exe in all the directories
 for i, subset in enumerate(subsets, start=1):
-    subset_directory = f"C:\\Users\\garsonj\\Desktop\\spacy_finetuning\\spacy_files\\docx\\2017_2021\\Subset_{i}"
-    shutil.copy(r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\docx\Recup_FichersAccord.exe", subset_directory)
+    subset_directory = f"{docx_output_path}\\2017_2021\\Subset_{i}"
+    shutil.copy(rf"{docx_output_path}\Recup_FichersAccord.exe", subset_directory)
 
 # We rename the Listes in the directories to Liste.txt
 # Specify the root directory where your subfolders are located
-root_directory = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\docx\2017_2021"
+root_directory = fr"{docx_output_path}\2017_2021"
 
 for subdir, _, files in os.walk(root_directory):
     for file in files:
@@ -126,7 +126,7 @@ for subdir, _, files in os.walk(root_directory):
             # Rename the file to "Liste.txt"
             os.rename(source_path, destination_path)
 
-root_path = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\docx\2017_2021"
+root_path = fr"{data_path}\docx\2017_2021"
 
 # Iterate over subdirectories
 for directory in os.listdir(root_path):

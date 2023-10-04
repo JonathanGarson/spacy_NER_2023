@@ -134,26 +134,26 @@ def main():
             'ATOT OUV', 'ATOT INT', 'ATOT CAD', 'PPV', 'PPVm', 'DATE']
 
     # Specify the root directory where models and data are located
-    root_dir = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
+    ROOT_PATH = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
 
     # Iterate through each label
     for label in labels:
-        classifier_model = os.path.join(root_dir, rf'model\classifyer\{label}\model-best')
-        ner_model = os.path.join(root_dir, rf'model\unilabel\{label}\model-best')
-        data_input = os.path.join(root_dir, r'data\training_csv\data449_cleaned.csv')
-        output_path = os.path.join(root_dir, rf'data\predicted_json\labelled_data_{label}_class_to_NER.json')
+        classifier_model = os.path.join(ROOT_PATH, rf'model\classifyer\{label}\model-best')
+        ner_model = os.path.join(ROOT_PATH, rf'model\unilabel\{label}\model-best')
+        data_input = os.path.join(ROOT_PATH, r'data\training_csv\data449_cleaned.csv')
+        output_path = os.path.join(ROOT_PATH, rf'data\predicted_json\labelled_data_{label}_class_to_NER.json')
 
         # Run NER pipeline for the current label
         NER_pipeline(classifier_model=classifier_model, ner_model=ner_model, data_input=data_input, output_path=output_path, label=label)
 
         # # Define the target labels and the path to the JSON files
         # target_labels = label
-        # true_json_file = os.path.join(root_dir, r'data\training_json\data449.json')
+        # true_json_file = os.path.join(ROOT_PATH, r'data\training_json\data449.json')
         # pred_json_file = output_path  # Reuse the output path
         # print(true_json_file, pred_json_file, target_labels)
 
         # # Generate the confusion matrix
-        # automate_confusion_matrix(true_json_file, pred_json_file, target_labels, True, os.path.join(root_dir, rf'model\classifyer\{label}\confusion_matrix.png'))
+        # automate_confusion_matrix(true_json_file, pred_json_file, target_labels, True, os.path.join(ROOT_PATH, rf'model\classifyer\{label}\confusion_matrix.png'))
         
 if __name__ == "__main__":
     main()

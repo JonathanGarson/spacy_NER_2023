@@ -9,6 +9,7 @@ import glob
 from tqdm import tqdm
 from docx import Document
 
+ROOT_PATH = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
 
 def extract_text_from_docx(file_path, output_file_path):
     """
@@ -49,15 +50,15 @@ def move_files(input_directory, output_directory):
             shutil.move(os.path.join(input_directory, file), output_directory)
 
 # Set your paths
-directory = glob.glob(r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\docx\2022_2023\2022_2023_all\Subset_1\docx\*.docx")
-output_directory = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\docx\2022_2023\2022_2023_all\Subset_1\text"
+directory = glob.glob(os.path.join(ROOT_PATH, r"data\docx\2022_2023\2022_2023_all\Subset_1\docx\*.docx"))
+output_directory = os.path.join(ROOT_PATH, r"data\docx\2022_2023\2022_2023_all\Subset_1\text")
 
 for file in tqdm(directory, desc="Extracting text from docx files", unit="files"):
     if file.endswith(".docx"):
         extract_text_from_docx(file, output_directory)
 
 # Move the files to the output directory
-# move_files(r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\docx\2022_2023\sample_2023", output_directory)
+# move_files(os.path.join(ROOT_PATH, r"docx\2022_2023\sample_2023"), output_directory)
 
 print("=========")
 print("All done!")

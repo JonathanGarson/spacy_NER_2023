@@ -237,7 +237,11 @@ def collect_model_performance(model, data, output_folder):
     print(f"Performance metrics saved to {output_folder}/performance.txt")
 
 ######### code #########
-    
+
+# Define the path
+ROOT_PATH = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
+
+# Define the names of the labels
 config_names = ['OUV', 'INT', 'CAD', 'NOUV', 'NCAD', 'AG', 'AI', 'TOUS', 'AG OUV', 'AG INT', 'AG CAD', 'AI OUV', 'AI INT', 'AI CAD', 'NOUV AG', 'NCAD AG', 'NOUV AI', 'NCAD AI', 'ATOT',\
                 'ATOT OUV', 'ATOT INT', 'ATOT CAD', 'DATE']
 
@@ -255,7 +259,7 @@ for name in config_names:
     folder = create_folder_and_init(name)
     
     # Import data
-    data = import_label_studio_data(r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\data\training_json\data449.json")
+    data = import_label_studio_data(os.path.join(ROOT_PATH, r"data\training_json\data449.json"))
 
     # Treat data
     data = spacy_to_dataframe(data)
@@ -273,20 +277,20 @@ for name in config_names:
         continue
 
     # Convert data to spaCy's binary format
-    convert(train_data, fr"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\train.spacy""", name)
-    convert(val_data, fr"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\val.spacy""", name)
-    convert(test_data, fr"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\test.spacy""", name)
+    convert(train_data, os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\train.spacy"""), name)
+    convert(val_data, os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\val.spacy"""), name)
+    convert(test_data, os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\test.spacy"""), name)
 
     # Train the model
-    config_path = rf"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\config.cfg"""
-    train_data = rf"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\train.spacy"""
-    val_data = rf"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\val.spacy"""
-    output_dir = rf"""C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}"""
+    config_path = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\config.cfg""")
+    train_data = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\train.spacy""")
+    val_data = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\val.spacy""")
+    output_dir = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}""")
     train_text_classification_model(config_path, output_dir, train_data, val_data)
 
     # # Evaluate the model
-    # model_path = rf"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\model-best"
-    # test_data = rf"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files\model\classifyer\{name}\test.spacy"
+    # model_path = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\model-best""")
+    # test_data = os.path.join(ROOT_PATH, fr"""model\classifyer\{name}\test.spacy""")
     # collect_model_performance(model_path, test_data, output_dir)
 
 print("=====================================")
