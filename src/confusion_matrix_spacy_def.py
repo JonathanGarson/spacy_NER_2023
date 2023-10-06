@@ -4,8 +4,8 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
-
-def import_label_studio_data(filename, target_labels):
+   
+def import_label_studio_data(filename):
     """
     This function imports the data from Label Studio JSON file and returns the data in the format required for training.
     It also allows selecting specific labels to train the model on with the "target_labels" argument.
@@ -18,35 +18,32 @@ def import_label_studio_data(filename, target_labels):
         A list of tuples containing (text, {"entities": entities}).
     """
     TRAIN_DATA = []
-
-    with open(filename, 'rb') as fp:
+    with open(filename,'rb') as fp:
         training_data = json.load(fp)
     for text in training_data:
         entities = []
         info = text.get('text')
+        entities = []
         if text.get('label') is not None:
             list_ = []
             for label in text.get('label'):
                 list_.append([label.get('start'), label.get('end')])
             a = np.array(list_)
-            overlap_ind = []
-            for i in range(0, len(a[:, 0])):
+            overlap_ind =[]
+            for i in range(0,len(a[:,0])):
                 a_comp = a[i]
                 x = np.delete(a, (i), axis=0)
-                overlap_flag = any([a_comp[0] in range(j[0], j[1] + 1) for j in x])
+                overlap_flag = any([a_comp[0] in range(j[0], j[1]+1) for j in x])
                 if overlap_flag:
                     overlap_ind.append(i)
-
+                    
             for ind, label in enumerate(text.get('label')):
                 if ind in overlap_ind:
-                    iop = 0
+                    iop=0
                 else:
-                    if any(target in label.get('labels') for target in target_labels):
-                        entities.append((label.get('start'), label.get('end'), label.get('labels')[0]))
-
-        if entities:  # Proceed only if there are non-empty entities
-            TRAIN_DATA.append((info, {"entities": entities}))
-
+                    if label.get('labels') is not None:
+                        entities.append((label.get('start'), label.get('end') ,label.get('labels')[0]))
+        TRAIN_DATA.append((info, {"entities" : entities}))
     return TRAIN_DATA
 
 
@@ -88,7 +85,6 @@ def dummy_label_true(df, label):
     # print(df["label_dummy"].value_counts())
     return df
 
-
 def clean_dataset(data):
     """
     This function cleans the dataset by removing rows with missing values and dropping the "label" column.
@@ -106,7 +102,6 @@ def clean_dataset(data):
         pass
     # print(data.head())
     return data
-
 
 def dummy_label_pred(df_pred):
     """
@@ -191,9 +186,25 @@ def print_statistics(true_label_data, pred_label_data):
 
     return precision, recall, f1_score
 
-def automate_confusion_matrix(true_json, pred_json, target_labels, save_confusion_matrix=False, output_path=None):
+def write_statistics_to_file(precision, recall, f1_score, output_path:str):
+    """
+    This function write down in files the three statistics: precision, recall, and F1 score.
+
+    Args:
+        precision (float): The precision score.
+        recall (float): The recall score.
+        f1_score (float): The F1 score.
+        output_path (str): The path to the output file.
+    """
+    with open(output_path, "w") as f:
+        f.write("Precision: " + str(precision) + "\n")
+        f.write("Recall: " + str(recall) + "\n")
+        f.write("F1 Score: " + str(f1_score) + "\n")
+
+
+def automate_confusion_matrix(true_json, pred_json, target_labels, save_confusion_matrix=False, output_path=None, output_text=None):
     # for the true json
-    true_data = import_label_studio_data(true_json, target_labels=target_labels)
+    true_data = import_label_studio_data(true_json)
     df_true = spacy_to_dataframe(true_data)
     df_true = dummy_label_true(df_true, target_labels)
     df_true = clean_dataset(df_true)
@@ -213,4 +224,7 @@ def automate_confusion_matrix(true_json, pred_json, target_labels, save_confusio
     spacy_confusion_matrix(true_label_data, pred_label_data, save_confusion_matrix=save_confusion_matrix, output_path=output_path)
 
     # print the statistics
-    print_statistics(true_label_data, pred_label_data)
+    precision, recall, f1_score = print_statistics(true_label_data, pred_label_data)
+
+    # write the statistics to a file
+    write_statistics_to_file(precision, recall, f1_score, output_path=output_text)

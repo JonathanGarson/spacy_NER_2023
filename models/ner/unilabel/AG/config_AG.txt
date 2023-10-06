@@ -1,0 +1,15 @@
+Les hyperparamètres du texte sont les suivants: 
+- batch size: 1000
+- epochs : 0 (entrainement jusqu'au maximum des capacités d'attention du modèle)
+- learning rate : 0.001 (10^-3)
+- dropout : 0.1
+
+Performance:                                        
+- Precision : 62.96/41.67
+- Recall : 50.00/55.56
+- F : 55.74/47.62
+
+Text: 146
+- Train : 102
+- Validation : 29
+- Test : 15

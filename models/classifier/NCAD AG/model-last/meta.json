@@ -1,0 +1,58 @@
+{
+  "lang":"fr",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.6.1,<3.7.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"458bc5f45",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "textcat":[
+      "NCAD AG",
+      "0"
+    ]
+  },
+  "pipeline":[
+    "textcat"
+  ],
+  "components":[
+    "textcat"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":0.6473684211,
+    "cats_score_desc":"macro F",
+    "cats_micro_p":0.8208955224,
+    "cats_micro_r":0.8208955224,
+    "cats_micro_f":0.8208955224,
+    "cats_macro_p":0.7513661202,
+    "cats_macro_r":0.6239892183,
+    "cats_macro_f":0.6473684211,
+    "cats_macro_auc":0.7412398922,
+    "cats_f_per_type":{
+      "NCAD AG":{
+        "p":0.8360655738,
+        "r":0.9622641509,
+        "f":0.8947368421
+      },
+      "0":{
+        "p":0.6666666667,
+        "r":0.2857142857,
+        "f":0.4
+      }
+    },
+    "textcat_loss":0.004901891
+  }
+}
