@@ -4,15 +4,16 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
+import os
    
 def import_label_studio_data(filename):
     """
     This function imports the data from Label Studio JSON file and returns the data in the format required for training.
-    It also allows selecting specific labels to train the model on with the "target_labels" argument.
+    It also allows selecting specific labels to train the model on with the "label" argument.
 
     Args:
         filename (str): The path to the JSON file.
-        target_labels (list): The list of labels to train the model on.
+        label (list): The list of labels to train the model on.
 
     Returns:
         A list of tuples containing (text, {"entities": entities}).
@@ -85,6 +86,32 @@ def dummy_label_true(df, label):
     # print(df["label_dummy"].value_counts())
     return df
 
+def dummy_label(df,label, pred=False):
+    """
+    This function creates a dummy variable for the target label.
+
+    Args:
+        df (DataFrame): The DataFrame containing the text and label columns.
+    """
+    # Create a new column called "label_dummy" and initialize with zeros
+    df["label_dummy"] = 0
+
+    start = 0 
+
+    # Iterate through each row in the DataFrame
+    for index, row in df.iterrows():
+        # print(index)
+        labels = row["label"]["entities"]  if not pred else row["label"]["label"]
+        if pred:
+           if label in set(map(lambda d:d["labels"],labels)):
+            df.at[index, "label_dummy"] = 1
+        else :
+            if label in set(map(lambda x:x[2],labels)):
+                df.at[index, "label_dummy"] = 1  # Set the value to 1 for the current row
+                start +=1
+    print(start)
+    return df
+
 def clean_dataset(data):
     """
     This function cleans the dataset by removing rows with missing values and dropping the "label" column.
@@ -133,23 +160,22 @@ def prepare_for_confusion_matrix(df_true, df_pred):
         df_true (DataFrame): The DataFrame containing the text and label columns.
         df_pred (DataFrame): The DataFrame containing the text and label columns.
     """
-
     df_whole = pd.merge(left=df_true, right=df_pred, on='text', how="inner")
+    # print(df_whole.shape, df_true.shape, df_pred.shape)
     true_label_data = df_whole['label_x'].tolist()
     pred_label_data = df_whole['label_y'].tolist()
-    print(true_label_data, pred_label_data)
+    # print(true_label_data, pred_label_data)
     return true_label_data, pred_label_data
 
 
-def spacy_confusion_matrix(true_label_data, pred_label_data, save_confusion_matrix=False, output_path=None):
+def spacy_confusion_matrix(true_label_data, pred_label_data, label, save_confusion_matrix=False, output_path=None):
     """
     This function plots the confusion matrix for the predictions made by the spaCy model.
     """
     confusion = confusion_matrix(true_label_data, pred_label_data)
-    print(confusion)
     plt.figure(figsize=(8, 6))
     sns.set(font_scale=1.2)  # Adjust font size if needed
-    sns.heatmap(confusion, annot=True, fmt='d', cmap='Blues', xticklabels=['0', 'PPV'], yticklabels=['0', 'PPV'])
+    sns.heatmap(confusion, annot=True, fmt='d', cmap='Blues', xticklabels=['0', label], yticklabels=['0', label])
     plt.xlabel('Predicted Labels')
     plt.ylabel('True Labels')
     plt.title('Confusion Matrix')
@@ -158,7 +184,6 @@ def spacy_confusion_matrix(true_label_data, pred_label_data, save_confusion_matr
         plt.savefig(output_path)
 
     plt.show()
-
 
 def print_statistics(true_label_data, pred_label_data):
     """
@@ -202,11 +227,11 @@ def write_statistics_to_file(precision, recall, f1_score, output_path:str):
         f.write("F1 Score: " + str(f1_score) + "\n")
 
 
-def automate_confusion_matrix(true_json, pred_json, target_labels, save_confusion_matrix=False, output_path=None, output_text=None):
+def automate_confusion_matrix(true_json, pred_json, label, save_confusion_matrix=False, output_path=None, output_text=None):
     # for the true json
     true_data = import_label_studio_data(true_json)
     df_true = spacy_to_dataframe(true_data)
-    df_true = dummy_label_true(df_true, target_labels)
+    df_true = dummy_label(df_true, label=label)
     df_true = clean_dataset(df_true)
 
     # for the predicted json
@@ -214,14 +239,14 @@ def automate_confusion_matrix(true_json, pred_json, target_labels, save_confusio
         data_pred = json.load(f)
 
     df_pred = spacy_to_dataframe(data_pred)
-    df_pred = dummy_label_pred(df_pred)
+    df_pred = dummy_label(df_pred, label=label, pred=True)
     df_pred = clean_dataset(df_pred)
 
     # merge the true and predicted labels into a single dataframe
     true_label_data, pred_label_data = prepare_for_confusion_matrix(df_true, df_pred)
 
     # plot the confusion matrix
-    spacy_confusion_matrix(true_label_data, pred_label_data, save_confusion_matrix=save_confusion_matrix, output_path=output_path)
+    spacy_confusion_matrix(true_label_data, pred_label_data, label, save_confusion_matrix=save_confusion_matrix, output_path=output_path)
 
     # print the statistics
     precision, recall, f1_score = print_statistics(true_label_data, pred_label_data)

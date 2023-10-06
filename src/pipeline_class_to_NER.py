@@ -28,7 +28,14 @@ def classify(classifier_model: str, data_path: str, label: str):
     for text in data["text"]:
         doc = nlp_classify(text)
         # print(doc.cats)  # Print the classification scores
-        if doc.cats.get(label, 0.0) > doc.cats.get("0", 0.0):
+        if label == "PPV" or label == "PPVm": # it is very ugly and due to the way models were trained (they were trained apart), I will fix it later (hopefully). If you generate all the models with the given code it should not be a problem. 
+            if doc.cats.get(label, 0.0) > doc.cats.get(f"N{label}", 0.0):
+                # print("Assigned to pos_list")
+                pos_list.append(text)
+            else:
+                # print("Assigned to neg_list")
+                neg_list.append(text)
+        elif doc.cats.get(label, 0.0) < doc.cats.get("0", 0.0):
             # print("Assigned to pos_list")
             pos_list.append(text)
         else:
@@ -121,8 +128,8 @@ def NER_pipeline(classifier_model, ner_model, data_input, output_path, label):
     json_file_length(output_path)
 
 def main():
-    labels = ['OUV', 'INT', 'CAD', 'NOUV', 'NCAD', 'AG', 'AI', 'TOUS', 'AG OUV', 'AG INT', 'AG CAD', 'AI OUV', 'AI INT', 'AI CAD', 'NOUV AG', 'NCAD AG', 'NOUV AI', 'NCAD AI', 'ATOT',\
-            'ATOT OUV', 'ATOT INT', 'ATOT CAD', 'PPV', 'PPVm', 'DATE']
+    labels = ['PPV','PPVm', 'OUV', 'INT', 'CAD', 'NOUV', 'NCAD', 'AG', 'AI', 'TOUS', 'AG OUV', 'AG INT', 'AG CAD', 'AI OUV', 'AI INT', 'AI CAD', 'NOUV AG', 'NCAD AG', 'NOUV AI', 'NCAD AI', 'ATOT',\
+            'ATOT OUV', 'ATOT INT', 'ATOT CAD', 'DATE']
 
 
     # Iterate through each label
@@ -149,13 +156,12 @@ def main():
         NER_pipeline(classifier_model=classifier_model, ner_model=ner_model, data_input=data_input, output_path=output_path, label=label)
 
         # Define the target labels and the path to the JSON files
-        target_labels = label
         true_json_file = r'.\data\raw\data449.json'
         pred_json_file = output_path  # Reuse the output path
-        print(true_json_file, pred_json_file, target_labels)
+        print(true_json_file, pred_json_file, label)
 
         # Generate the confusion matrix
-        automate_confusion_matrix(true_json_file, pred_json_file, target_labels, True, rf'.\reports\figures\confusion_matrix_{label}.png', output_text=output_text)
+        automate_confusion_matrix(true_json_file, pred_json_file, label=label, save_confusion_matrix=True, output_path=rf'.\reports\figures\confusion_matrix_{label}.png', output_text=output_text)
         print(f"saved confusion matrix to : .\reports\figures\confusion_matrix_{label}.png")
 
 if __name__ == "__main__":
