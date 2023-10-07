@@ -6,7 +6,8 @@
                 {
                     "start": 1065,
                     "end": 1067,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -18,7 +19,8 @@
                 {
                     "start": 566,
                     "end": 568,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -30,7 +32,8 @@
                 {
                     "start": 1270,
                     "end": 1272,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -42,37 +45,44 @@
                 {
                     "start": 128,
                     "end": 133,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "7,22%"
                 },
                 {
                     "start": 275,
                     "end": 277,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 },
                 {
                     "start": 654,
                     "end": 656,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1201,
                     "end": 1203,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1359,
                     "end": 1361,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1479,
                     "end": 1481,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1796,
                     "end": 1798,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -84,12 +94,14 @@
                 {
                     "start": 338,
                     "end": 342,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3,5%"
                 },
                 {
                     "start": 634,
                     "end": 638,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -101,7 +113,8 @@
                 {
                     "start": 749,
                     "end": 754,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5,1 %"
                 }
             ]
         }
@@ -113,12 +126,14 @@
                 {
                     "start": 566,
                     "end": 568,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 },
                 {
                     "start": 991,
                     "end": 993,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -130,7 +145,8 @@
                 {
                     "start": 874,
                     "end": 878,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -142,7 +158,8 @@
                 {
                     "start": 89,
                     "end": 94,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5.2 %"
                 }
             ]
         }
@@ -154,7 +171,8 @@
                 {
                     "start": 155,
                     "end": 159,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "4,7%"
                 }
             ]
         }
@@ -178,17 +196,20 @@
                 {
                     "start": 1587,
                     "end": 1590,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5 %"
                 },
                 {
                     "start": 1893,
                     "end": 1896,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5 %"
                 },
                 {
                     "start": 2419,
                     "end": 2424,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -200,7 +221,8 @@
                 {
                     "start": 744,
                     "end": 749,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.20%"
                 }
             ]
         }
@@ -218,7 +240,8 @@
                 {
                     "start": 1070,
                     "end": 1075,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.5 %"
                 }
             ]
         }
@@ -230,7 +253,8 @@
                 {
                     "start": 1616,
                     "end": 1618,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -242,7 +266,8 @@
                 {
                     "start": 2304,
                     "end": 2306,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -254,17 +279,20 @@
                 {
                     "start": 270,
                     "end": 274,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "4.5%"
                 },
                 {
                     "start": 403,
                     "end": 407,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "4.3%"
                 },
                 {
                     "start": 545,
                     "end": 547,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -276,7 +304,8 @@
                 {
                     "start": 324,
                     "end": 328,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3,3%"
                 }
             ]
         }
@@ -288,7 +317,8 @@
                 {
                     "start": 602,
                     "end": 604,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -300,7 +330,8 @@
                 {
                     "start": 196,
                     "end": 201,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "+2.4%"
                 }
             ]
         }
@@ -312,12 +343,14 @@
                 {
                     "start": 239,
                     "end": 241,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3%"
                 },
                 {
                     "start": 284,
                     "end": 286,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -329,7 +362,8 @@
                 {
                     "start": 1025,
                     "end": 1030,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.70%"
                 }
             ]
         }
@@ -341,7 +375,8 @@
                 {
                     "start": 621,
                     "end": 625,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -359,7 +394,8 @@
                 {
                     "start": 510,
                     "end": 514,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -377,7 +413,8 @@
                 {
                     "start": 454,
                     "end": 460,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,40 %"
                 }
             ]
         }
@@ -389,7 +426,8 @@
                 {
                     "start": 358,
                     "end": 363,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.1 %"
                 }
             ]
         }
@@ -401,7 +439,8 @@
                 {
                     "start": 1730,
                     "end": 1734,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.3%"
                 }
             ]
         }
@@ -413,7 +452,8 @@
                 {
                     "start": 1713,
                     "end": 1717,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.4%"
                 }
             ]
         }
@@ -431,7 +471,8 @@
                 {
                     "start": 1442,
                     "end": 1448,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.45 %"
                 }
             ]
         }
@@ -443,7 +484,8 @@
                 {
                     "start": 225,
                     "end": 231,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.50 %"
                 }
             ]
         }
@@ -455,7 +497,8 @@
                 {
                     "start": 1238,
                     "end": 1242,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1.5%"
                 }
             ]
         }
@@ -467,7 +510,8 @@
                 {
                     "start": 2178,
                     "end": 2181,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "8 %"
                 }
             ]
         }
@@ -485,7 +529,8 @@
                 {
                     "start": 1661,
                     "end": 1662,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "%"
                 }
             ]
         }
@@ -497,7 +542,8 @@
                 {
                     "start": 174,
                     "end": 178,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1.5%"
                 }
             ]
         }
@@ -509,7 +555,8 @@
                 {
                     "start": 1515,
                     "end": 1521,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,45 %"
                 }
             ]
         }
@@ -521,7 +568,8 @@
                 {
                     "start": 969,
                     "end": 970,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "%"
                 }
             ]
         }
@@ -533,7 +581,8 @@
                 {
                     "start": 1324,
                     "end": 1330,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1,50 %"
                 }
             ]
         }
@@ -545,7 +594,8 @@
                 {
                     "start": 1672,
                     "end": 1676,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,7%"
                 }
             ]
         }
@@ -557,7 +607,8 @@
                 {
                     "start": 1535,
                     "end": 1540,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,4 %"
                 }
             ]
         }
@@ -569,7 +620,8 @@
                 {
                     "start": 2036,
                     "end": 2038,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -587,12 +639,14 @@
                 {
                     "start": 116,
                     "end": 118,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2%"
                 },
                 {
                     "start": 223,
                     "end": 225,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -616,12 +670,14 @@
                 {
                     "start": 343,
                     "end": 347,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.5%"
                 },
                 {
                     "start": 566,
                     "end": 570,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2.5%"
                 }
             ]
         }
@@ -633,22 +689,26 @@
                 {
                     "start": 245,
                     "end": 250,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1,22%"
                 },
                 {
                     "start": 294,
                     "end": 299,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1,19%"
                 },
                 {
                     "start": 342,
                     "end": 347,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1,17%"
                 },
                 {
                     "start": 389,
                     "end": 394,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1,12%"
                 }
             ]
         }
@@ -660,7 +720,8 @@
                 {
                     "start": 126,
                     "end": 130,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "3.8%"
                 }
             ]
         }
@@ -672,7 +733,8 @@
                 {
                     "start": 459,
                     "end": 461,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -684,7 +746,8 @@
                 {
                     "start": 283,
                     "end": 287,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "0,7%"
                 }
             ]
         }
@@ -696,7 +759,8 @@
                 {
                     "start": 325,
                     "end": 329,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "0,7%"
                 }
             ]
         }
@@ -708,22 +772,26 @@
                 {
                     "start": 497,
                     "end": 501,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 902,
                     "end": 906,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 1095,
                     "end": 1099,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 1754,
                     "end": 1758,
-                    "labels": "AG OUV"
+                    "labels": "AG OUV",
+                    "text_span": "2,5%"
                 }
             ]
         }

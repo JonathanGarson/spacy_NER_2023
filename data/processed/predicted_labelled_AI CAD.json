@@ -6,7 +6,8 @@
                 {
                     "start": 330,
                     "end": 336,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,35 %"
                 }
             ]
         }
@@ -18,7 +19,8 @@
                 {
                     "start": 1553,
                     "end": 1555,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -30,7 +32,8 @@
                 {
                     "start": 1282,
                     "end": 1286,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5.4%"
                 }
             ]
         }
@@ -42,7 +45,8 @@
                 {
                     "start": 1165,
                     "end": 1167,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -60,7 +64,8 @@
                 {
                     "start": 1661,
                     "end": 1665,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5,8%"
                 }
             ]
         }
@@ -72,7 +77,8 @@
                 {
                     "start": 1331,
                     "end": 1336,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5,5 %"
                 }
             ]
         }
@@ -84,7 +90,8 @@
                 {
                     "start": 1246,
                     "end": 1248,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -96,7 +103,8 @@
                 {
                     "start": 911,
                     "end": 915,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5.8%"
                 }
             ]
         }
@@ -108,7 +116,8 @@
                 {
                     "start": 1670,
                     "end": 1672,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -120,12 +129,14 @@
                 {
                     "start": 628,
                     "end": 630,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 },
                 {
                     "start": 714,
                     "end": 716,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -137,17 +148,20 @@
                 {
                     "start": 676,
                     "end": 678,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1101,
                     "end": 1103,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 },
                 {
                     "start": 2383,
                     "end": 2385,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -159,7 +173,8 @@
                 {
                     "start": 2373,
                     "end": 2376,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -171,7 +186,8 @@
                 {
                     "start": 458,
                     "end": 463,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3.5 %"
                 }
             ]
         }
@@ -183,12 +199,14 @@
                 {
                     "start": 1340,
                     "end": 1345,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,50%"
                 },
                 {
                     "start": 1470,
                     "end": 1475,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,80%"
                 }
             ]
         }
@@ -200,7 +218,8 @@
                 {
                     "start": 1083,
                     "end": 1085,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -212,7 +231,8 @@
                 {
                     "start": 1653,
                     "end": 1655,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -224,12 +244,14 @@
                 {
                     "start": 969,
                     "end": 974,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,1 %"
                 },
                 {
                     "start": 1200,
                     "end": 1205,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -241,7 +263,8 @@
                 {
                     "start": 1032,
                     "end": 1036,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -253,22 +276,26 @@
                 {
                     "start": 502,
                     "end": 507,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 1480,
                     "end": 1485,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 1812,
                     "end": 1815,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 2268,
                     "end": 2271,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2 %"
                 }
             ]
         }
@@ -280,7 +307,8 @@
                 {
                     "start": 495,
                     "end": 497,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -292,12 +320,14 @@
                 {
                     "start": 1306,
                     "end": 1309,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 1743,
                     "end": 1748,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -309,7 +339,8 @@
                 {
                     "start": 730,
                     "end": 734,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5,3%"
                 }
             ]
         }
@@ -321,7 +352,8 @@
                 {
                     "start": 794,
                     "end": 798,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5,5%"
                 }
             ]
         }
@@ -333,7 +365,8 @@
                 {
                     "start": 617,
                     "end": 619,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -345,12 +378,14 @@
                 {
                     "start": 1082,
                     "end": 1087,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,10%"
                 },
                 {
                     "start": 1791,
                     "end": 1796,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,10%"
                 }
             ]
         }
@@ -362,7 +397,8 @@
                 {
                     "start": 2186,
                     "end": 2188,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -380,12 +416,14 @@
                 {
                     "start": 2313,
                     "end": 2316,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5 %"
                 },
                 {
                     "start": 2516,
                     "end": 2518,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -403,7 +441,8 @@
                 {
                     "start": 470,
                     "end": 472,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -415,7 +454,8 @@
                 {
                     "start": 831,
                     "end": 833,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -427,7 +467,8 @@
                 {
                     "start": 2283,
                     "end": 2286,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -439,7 +480,8 @@
                 {
                     "start": 2492,
                     "end": 2494,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -451,12 +493,14 @@
                 {
                     "start": 653,
                     "end": 657,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,5%"
                 },
                 {
                     "start": 1622,
                     "end": 1626,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -468,7 +512,8 @@
                 {
                     "start": 2586,
                     "end": 2591,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,50%"
                 }
             ]
         }
@@ -480,7 +525,8 @@
                 {
                     "start": 1083,
                     "end": 1085,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -492,7 +538,8 @@
                 {
                     "start": 1933,
                     "end": 1935,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -504,7 +551,8 @@
                 {
                     "start": 622,
                     "end": 627,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3.5 %"
                 }
             ]
         }
@@ -516,7 +564,8 @@
                 {
                     "start": 2375,
                     "end": 2377,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -528,7 +577,8 @@
                 {
                     "start": 993,
                     "end": 996,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -540,7 +590,8 @@
                 {
                     "start": 750,
                     "end": 752,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -552,12 +603,14 @@
                 {
                     "start": 522,
                     "end": 527,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,60%"
                 },
                 {
                     "start": 1061,
                     "end": 1067,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3,00 %"
                 }
             ]
         }
@@ -569,7 +622,8 @@
                 {
                     "start": 1034,
                     "end": 1038,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2.3%"
                 }
             ]
         }
@@ -587,7 +641,8 @@
                 {
                     "start": 1742,
                     "end": 1745,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2 %"
                 }
             ]
         }
@@ -599,7 +654,8 @@
                 {
                     "start": 332,
                     "end": 334,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -623,7 +679,8 @@
                 {
                     "start": 1057,
                     "end": 1061,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,2%"
                 }
             ]
         }
@@ -635,7 +692,8 @@
                 {
                     "start": 2550,
                     "end": 2555,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,8 %"
                 }
             ]
         }
@@ -647,7 +705,8 @@
                 {
                     "start": 2147,
                     "end": 2151,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,8%"
                 }
             ]
         }
@@ -665,17 +724,20 @@
                 {
                     "start": 1234,
                     "end": 1236,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 },
                 {
                     "start": 1408,
                     "end": 1412,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,8%"
                 },
                 {
                     "start": 2222,
                     "end": 2224,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -687,7 +749,8 @@
                 {
                     "start": 1257,
                     "end": 1263,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,80 %"
                 }
             ]
         }
@@ -699,7 +762,8 @@
                 {
                     "start": 1976,
                     "end": 1982,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,30 %"
                 }
             ]
         }
@@ -717,12 +781,14 @@
                 {
                     "start": 2245,
                     "end": 2251,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3,25 %"
                 },
                 {
                     "start": 2555,
                     "end": 2561,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,65 %"
                 }
             ]
         }
@@ -734,7 +800,8 @@
                 {
                     "start": 790,
                     "end": 793,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -746,7 +813,8 @@
                 {
                     "start": 1177,
                     "end": 1183,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2.90 %"
                 }
             ]
         }
@@ -770,7 +838,8 @@
                 {
                     "start": 1591,
                     "end": 1595,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -782,7 +851,8 @@
                 {
                     "start": 1244,
                     "end": 1249,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,8 %"
                 }
             ]
         }
@@ -794,7 +864,8 @@
                 {
                     "start": 507,
                     "end": 510,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -806,7 +877,8 @@
                 {
                     "start": 1965,
                     "end": 1970,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3.5 %"
                 }
             ]
         }
@@ -818,7 +890,8 @@
                 {
                     "start": 1308,
                     "end": 1313,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2.5 %"
                 }
             ]
         }
@@ -830,7 +903,8 @@
                 {
                     "start": 2245,
                     "end": 2249,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3,9%"
                 }
             ]
         }
@@ -842,7 +916,8 @@
                 {
                     "start": 1056,
                     "end": 1060,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2.8%"
                 }
             ]
         }
@@ -854,12 +929,14 @@
                 {
                     "start": 579,
                     "end": 584,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,3 %"
                 },
                 {
                     "start": 877,
                     "end": 882,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,3 %"
                 }
             ]
         }
@@ -871,22 +948,26 @@
                 {
                     "start": 122,
                     "end": 128,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,66 %"
                 },
                 {
                     "start": 374,
                     "end": 379,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,66%"
                 },
                 {
                     "start": 717,
                     "end": 721,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,3%"
                 },
                 {
                     "start": 862,
                     "end": 867,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,76%"
                 }
             ]
         }
@@ -898,7 +979,8 @@
                 {
                     "start": 1029,
                     "end": 1031,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -910,7 +992,8 @@
                 {
                     "start": 972,
                     "end": 974,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -922,7 +1005,8 @@
                 {
                     "start": 1017,
                     "end": 1021,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2.6%"
                 }
             ]
         }
@@ -934,12 +1018,14 @@
                 {
                     "start": 952,
                     "end": 956,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,9%"
                 },
                 {
                     "start": 1188,
                     "end": 1192,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "4,4%"
                 }
             ]
         }
@@ -951,12 +1037,14 @@
                 {
                     "start": 1326,
                     "end": 1331,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,60%"
                 },
                 {
                     "start": 1464,
                     "end": 1469,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,80%"
                 }
             ]
         }
@@ -968,12 +1056,14 @@
                 {
                     "start": 170,
                     "end": 176,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,80 %"
                 },
                 {
                     "start": 203,
                     "end": 209,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,00 %"
                 }
             ]
         }
@@ -985,27 +1075,32 @@
                 {
                     "start": 245,
                     "end": 250,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,22%"
                 },
                 {
                     "start": 342,
                     "end": 347,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,17%"
                 },
                 {
                     "start": 389,
                     "end": 394,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,12%"
                 },
                 {
                     "start": 447,
                     "end": 452,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,03%"
                 },
                 {
                     "start": 494,
                     "end": 499,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,18%"
                 }
             ]
         }
@@ -1017,12 +1112,14 @@
                 {
                     "start": 583,
                     "end": 587,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,6%"
                 },
                 {
                     "start": 890,
                     "end": 894,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "0,6%"
                 }
             ]
         }
@@ -1034,7 +1131,8 @@
                 {
                     "start": 1539,
                     "end": 1541,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1046,12 +1144,14 @@
                 {
                     "start": 334,
                     "end": 339,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2,05%"
                 },
                 {
                     "start": 1936,
                     "end": 1938,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1075,7 +1175,8 @@
                 {
                     "start": 2460,
                     "end": 2464,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -1087,12 +1188,14 @@
                 {
                     "start": 681,
                     "end": 683,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1125,
                     "end": 1129,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -1104,7 +1207,8 @@
                 {
                     "start": 2104,
                     "end": 2108,
-                    "labels": "AI CAD"
+                    "labels": "AI CAD",
+                    "text_span": "1,8%"
                 }
             ]
         }

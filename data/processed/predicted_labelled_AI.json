@@ -6,7 +6,8 @@
                 {
                     "start": 2419,
                     "end": 2423,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,3%"
                 }
             ]
         }
@@ -18,7 +19,8 @@
                 {
                     "start": 549,
                     "end": 553,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7%"
                 }
             ]
         }
@@ -36,37 +38,44 @@
                 {
                     "start": 1002,
                     "end": 1007,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 1122,
                     "end": 1126,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 },
                 {
                     "start": 1378,
                     "end": 1381,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 1553,
                     "end": 1555,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1835,
                     "end": 1840,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 2006,
                     "end": 2010,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 },
                 {
                     "start": 2298,
                     "end": 2303,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -78,7 +87,8 @@
                 {
                     "start": 350,
                     "end": 355,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -90,7 +100,8 @@
                 {
                     "start": 825,
                     "end": 830,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,00%"
                 }
             ]
         }
@@ -102,12 +113,14 @@
                 {
                     "start": 414,
                     "end": 416,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1548,
                     "end": 1552,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,4%"
                 }
             ]
         }
@@ -119,17 +132,20 @@
                 {
                     "start": 783,
                     "end": 787,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5%"
                 },
                 {
                     "start": 2139,
                     "end": 2142,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3 %"
                 },
                 {
                     "start": 2303,
                     "end": 2306,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2 %"
                 }
             ]
         }
@@ -141,7 +157,8 @@
                 {
                     "start": 2387,
                     "end": 2391,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,2%"
                 }
             ]
         }
@@ -153,7 +170,8 @@
                 {
                     "start": 742,
                     "end": 747,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1.5 %"
                 }
             ]
         }
@@ -165,37 +183,44 @@
                 {
                     "start": 481,
                     "end": 483,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 535,
                     "end": 537,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4%"
                 },
                 {
                     "start": 589,
                     "end": 591,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4%"
                 },
                 {
                     "start": 643,
                     "end": 645,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 },
                 {
                     "start": 697,
                     "end": 699,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 751,
                     "end": 753,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1901,
                     "end": 1905,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -207,7 +232,8 @@
                 {
                     "start": 968,
                     "end": 972,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,8%"
                 }
             ]
         }
@@ -219,17 +245,20 @@
                 {
                     "start": 280,
                     "end": 282,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1208,
                     "end": 1210,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1894,
                     "end": 1898,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 }
             ]
         }
@@ -241,17 +270,20 @@
                 {
                     "start": 305,
                     "end": 310,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,6 %"
                 },
                 {
                     "start": 1487,
                     "end": 1491,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 1909,
                     "end": 1914,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,4 %"
                 }
             ]
         }
@@ -263,7 +295,8 @@
                 {
                     "start": 1158,
                     "end": 1163,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -275,7 +308,8 @@
                 {
                     "start": 1794,
                     "end": 1800,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,75 %"
                 }
             ]
         }
@@ -287,17 +321,20 @@
                 {
                     "start": 343,
                     "end": 345,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 },
                 {
                     "start": 486,
                     "end": 488,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 },
                 {
                     "start": 1423,
                     "end": 1426,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -309,12 +346,14 @@
                 {
                     "start": 986,
                     "end": 991,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,13%"
                 },
                 {
                     "start": 1250,
                     "end": 1254,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -326,17 +365,20 @@
                 {
                     "start": 1239,
                     "end": 1243,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4.0%"
                 },
                 {
                     "start": 1384,
                     "end": 1388,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.0%"
                 },
                 {
                     "start": 1833,
                     "end": 1837,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "7,0%"
                 }
             ]
         }
@@ -348,7 +390,8 @@
                 {
                     "start": 869,
                     "end": 871,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -360,12 +403,14 @@
                 {
                     "start": 241,
                     "end": 245,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4.5%"
                 },
                 {
                     "start": 1963,
                     "end": 1967,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -377,32 +422,38 @@
                 {
                     "start": 271,
                     "end": 276,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7 %"
                 },
                 {
                     "start": 590,
                     "end": 594,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,7%"
                 },
                 {
                     "start": 601,
                     "end": 605,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7%"
                 },
                 {
                     "start": 1246,
                     "end": 1248,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1648,
                     "end": 1650,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 },
                 {
                     "start": 1676,
                     "end": 1678,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -414,12 +465,14 @@
                 {
                     "start": 993,
                     "end": 997,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5%"
                 },
                 {
                     "start": 1066,
                     "end": 1068,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -431,7 +484,8 @@
                 {
                     "start": 459,
                     "end": 464,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.80%"
                 }
             ]
         }
@@ -443,7 +497,8 @@
                 {
                     "start": 476,
                     "end": 480,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -455,17 +510,20 @@
                 {
                     "start": 110,
                     "end": 112,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 848,
                     "end": 850,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1912,
                     "end": 1914,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -477,22 +535,26 @@
                 {
                     "start": 547,
                     "end": 549,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 },
                 {
                     "start": 779,
                     "end": 781,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1013,
                     "end": 1015,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 },
                 {
                     "start": 1249,
                     "end": 1253,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -504,7 +566,8 @@
                 {
                     "start": 850,
                     "end": 855,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.5 %"
                 }
             ]
         }
@@ -522,17 +585,20 @@
                 {
                     "start": 964,
                     "end": 968,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 2221,
                     "end": 2225,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7%"
                 },
                 {
                     "start": 2414,
                     "end": 2418,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,0%"
                 }
             ]
         }
@@ -544,7 +610,8 @@
                 {
                     "start": 715,
                     "end": 719,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.5%"
                 }
             ]
         }
@@ -556,7 +623,8 @@
                 {
                     "start": 622,
                     "end": 627,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -568,7 +636,8 @@
                 {
                     "start": 663,
                     "end": 667,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2.8%"
                 }
             ]
         }
@@ -580,7 +649,8 @@
                 {
                     "start": 367,
                     "end": 370,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -592,7 +662,8 @@
                 {
                     "start": 151,
                     "end": 156,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5 %"
                 }
             ]
         }
@@ -604,17 +675,20 @@
                 {
                     "start": 764,
                     "end": 766,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4%"
                 },
                 {
                     "start": 960,
                     "end": 962,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1083,
                     "end": 1085,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -632,12 +706,14 @@
                 {
                     "start": 647,
                     "end": 652,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,35%"
                 },
                 {
                     "start": 2537,
                     "end": 2539,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -649,7 +725,8 @@
                 {
                     "start": 728,
                     "end": 736,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "198,02 €"
                 }
             ]
         }
@@ -661,32 +738,38 @@
                 {
                     "start": 193,
                     "end": 197,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 },
                 {
                     "start": 502,
                     "end": 507,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 903,
                     "end": 908,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 1480,
                     "end": 1485,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 1812,
                     "end": 1815,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 2268,
                     "end": 2271,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2 %"
                 }
             ]
         }
@@ -698,32 +781,38 @@
                 {
                     "start": 57,
                     "end": 61,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,7%"
                 },
                 {
                     "start": 68,
                     "end": 72,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7%"
                 },
                 {
                     "start": 495,
                     "end": 497,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 897,
                     "end": 899,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 },
                 {
                     "start": 925,
                     "end": 927,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1474,
                     "end": 1479,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,8 à"
                 }
             ]
         }
@@ -735,7 +824,8 @@
                 {
                     "start": 1604,
                     "end": 1608,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -747,17 +837,20 @@
                 {
                     "start": 48,
                     "end": 53,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1.35%"
                 },
                 {
                     "start": 1227,
                     "end": 1233,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.80 %"
                 },
                 {
                     "start": 1702,
                     "end": 1708,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.45 %"
                 }
             ]
         }
@@ -769,7 +862,8 @@
                 {
                     "start": 313,
                     "end": 315,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -781,12 +875,14 @@
                 {
                     "start": 252,
                     "end": 257,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 1743,
                     "end": 1748,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -798,7 +894,8 @@
                 {
                     "start": 1168,
                     "end": 1172,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -810,7 +907,8 @@
                 {
                     "start": 1682,
                     "end": 1687,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -822,12 +920,14 @@
                 {
                     "start": 775,
                     "end": 778,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5 %"
                 },
                 {
                     "start": 1587,
                     "end": 1590,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -839,32 +939,38 @@
                 {
                     "start": 274,
                     "end": 279,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7 %"
                 },
                 {
                     "start": 592,
                     "end": 596,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,7%"
                 },
                 {
                     "start": 603,
                     "end": 607,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,7%"
                 },
                 {
                     "start": 984,
                     "end": 986,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1386,
                     "end": 1388,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 },
                 {
                     "start": 1414,
                     "end": 1416,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -876,7 +982,8 @@
                 {
                     "start": 1630,
                     "end": 1633,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1 %"
                 }
             ]
         }
@@ -888,17 +995,20 @@
                 {
                     "start": 360,
                     "end": 365,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,3 %"
                 },
                 {
                     "start": 627,
                     "end": 631,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5%"
                 },
                 {
                     "start": 794,
                     "end": 798,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5,5%"
                 }
             ]
         }
@@ -910,27 +1020,32 @@
                 {
                     "start": 333,
                     "end": 337,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,2%"
                 },
                 {
                     "start": 777,
                     "end": 781,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,3%"
                 },
                 {
                     "start": 1485,
                     "end": 1490,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,08%"
                 },
                 {
                     "start": 2194,
                     "end": 2199,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,65%"
                 },
                 {
                     "start": 2474,
                     "end": 2479,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,96%"
                 }
             ]
         }
@@ -942,17 +1057,20 @@
                 {
                     "start": 128,
                     "end": 130,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "6%"
                 },
                 {
                     "start": 336,
                     "end": 340,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 402,
                     "end": 406,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 }
             ]
         }
@@ -964,7 +1082,8 @@
                 {
                     "start": 871,
                     "end": 876,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5 %"
                 }
             ]
         }
@@ -976,12 +1095,14 @@
                 {
                     "start": 771,
                     "end": 776,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5 %"
                 },
                 {
                     "start": 2300,
                     "end": 2305,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5 %"
                 }
             ]
         }
@@ -999,7 +1120,8 @@
                 {
                     "start": 1334,
                     "end": 1336,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -1011,7 +1133,8 @@
                 {
                     "start": 946,
                     "end": 949,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "6 %"
                 }
             ]
         }
@@ -1023,12 +1146,14 @@
                 {
                     "start": 1455,
                     "end": 1457,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1881,
                     "end": 1883,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -1046,7 +1171,8 @@
                 {
                     "start": 711,
                     "end": 713,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1058,7 +1184,8 @@
                 {
                     "start": 1592,
                     "end": 1594,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -1070,17 +1197,20 @@
                 {
                     "start": 830,
                     "end": 832,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1578,
                     "end": 1580,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 },
                 {
                     "start": 1886,
                     "end": 1889,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -1092,17 +1222,20 @@
                 {
                     "start": 953,
                     "end": 957,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5%"
                 },
                 {
                     "start": 1136,
                     "end": 1140,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 2204,
                     "end": 2206,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1114,17 +1247,20 @@
                 {
                     "start": 764,
                     "end": 766,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4%"
                 },
                 {
                     "start": 960,
                     "end": 962,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1083,
                     "end": 1085,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1136,7 +1272,8 @@
                 {
                     "start": 613,
                     "end": 615,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1148,7 +1285,8 @@
                 {
                     "start": 1001,
                     "end": 1006,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4.5 %"
                 }
             ]
         }
@@ -1160,7 +1298,8 @@
                 {
                     "start": 573,
                     "end": 577,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -1172,7 +1311,8 @@
                 {
                     "start": 184,
                     "end": 186,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1184,7 +1324,8 @@
                 {
                     "start": 355,
                     "end": 364,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "223 000 €"
                 }
             ]
         }
@@ -1202,7 +1343,8 @@
                 {
                     "start": 977,
                     "end": 982,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,8 %"
                 }
             ]
         }
@@ -1214,7 +1356,8 @@
                 {
                     "start": 130,
                     "end": 135,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,3 %"
                 }
             ]
         }
@@ -1226,12 +1369,14 @@
                 {
                     "start": 745,
                     "end": 748,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3 %"
                 },
                 {
                     "start": 849,
                     "end": 851,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1243,7 +1388,8 @@
                 {
                     "start": 218,
                     "end": 222,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -1255,7 +1401,8 @@
                 {
                     "start": 815,
                     "end": 819,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,8%"
                 }
             ]
         }
@@ -1267,7 +1414,8 @@
                 {
                     "start": 1067,
                     "end": 1069,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1279,7 +1427,8 @@
                 {
                     "start": 872,
                     "end": 874,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -1291,27 +1440,32 @@
                 {
                     "start": 245,
                     "end": 250,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,70%"
                 },
                 {
                     "start": 522,
                     "end": 527,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,60%"
                 },
                 {
                     "start": 712,
                     "end": 717,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,00%"
                 },
                 {
                     "start": 902,
                     "end": 907,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,50%"
                 },
                 {
                     "start": 1061,
                     "end": 1067,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,00 %"
                 }
             ]
         }
@@ -1323,7 +1477,8 @@
                 {
                     "start": 302,
                     "end": 304,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1335,12 +1490,14 @@
                 {
                     "start": 274,
                     "end": 278,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,4%"
                 },
                 {
                     "start": 1601,
                     "end": 1606,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,0 %"
                 }
             ]
         }
@@ -1352,7 +1509,8 @@
                 {
                     "start": 115,
                     "end": 119,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,5 "
                 }
             ]
         }
@@ -1364,7 +1522,8 @@
                 {
                     "start": 1481,
                     "end": 1485,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1.7%"
                 }
             ]
         }
@@ -1376,7 +1535,8 @@
                 {
                     "start": 2363,
                     "end": 2366,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1 %"
                 }
             ]
         }
@@ -1388,12 +1548,14 @@
                 {
                     "start": 945,
                     "end": 949,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 },
                 {
                     "start": 1023,
                     "end": 1028,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,8 %"
                 }
             ]
         }
@@ -1405,7 +1567,8 @@
                 {
                     "start": 793,
                     "end": 797,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 }
             ]
         }
@@ -1417,17 +1580,20 @@
                 {
                     "start": 996,
                     "end": 1000,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.9%"
                 },
                 {
                     "start": 1181,
                     "end": 1186,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.9 %"
                 },
                 {
                     "start": 1308,
                     "end": 1313,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2.5 %"
                 }
             ]
         }
@@ -1439,12 +1605,14 @@
                 {
                     "start": 1224,
                     "end": 1229,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.2 %"
                 },
                 {
                     "start": 1377,
                     "end": 1381,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.2%"
                 }
             ]
         }
@@ -1462,7 +1630,8 @@
                 {
                     "start": 180,
                     "end": 185,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.5 %"
                 }
             ]
         }
@@ -1474,12 +1643,14 @@
                 {
                     "start": 1018,
                     "end": 1020,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0)"
                 },
                 {
                     "start": 1379,
                     "end": 1384,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4.00%"
                 }
             ]
         }
@@ -1491,37 +1662,44 @@
                 {
                     "start": 122,
                     "end": 128,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,66 %"
                 },
                 {
                     "start": 374,
                     "end": 379,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "4,66%"
                 },
                 {
                     "start": 478,
                     "end": 482,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,9%"
                 },
                 {
                     "start": 599,
                     "end": 603,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,6%"
                 },
                 {
                     "start": 717,
                     "end": 721,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,3%"
                 },
                 {
                     "start": 862,
                     "end": 867,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,76%"
                 },
                 {
                     "start": 1497,
                     "end": 1501,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5%"
                 }
             ]
         }
@@ -1533,12 +1711,14 @@
                 {
                     "start": 1375,
                     "end": 1377,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1758,
                     "end": 1760,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -1550,42 +1730,50 @@
                 {
                     "start": 225,
                     "end": 231,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2.50 %"
                 },
                 {
                     "start": 574,
                     "end": 577,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 697,
                     "end": 702,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5 %"
                 },
                 {
                     "start": 984,
                     "end": 989,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,6 %"
                 },
                 {
                     "start": 1109,
                     "end": 1114,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,4 %"
                 },
                 {
                     "start": 1268,
                     "end": 1273,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5 %"
                 },
                 {
                     "start": 1702,
                     "end": 1707,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.4 %"
                 },
                 {
                     "start": 1827,
                     "end": 1832,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,5 %"
                 }
             ]
         }
@@ -1597,7 +1785,8 @@
                 {
                     "start": 164,
                     "end": 168,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -1609,12 +1798,14 @@
                 {
                     "start": 885,
                     "end": 890,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,82%"
                 },
                 {
                     "start": 2110,
                     "end": 2112,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -1626,7 +1817,8 @@
                 {
                     "start": 358,
                     "end": 362,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0.5%"
                 }
             ]
         }
@@ -1638,7 +1830,8 @@
                 {
                     "start": 879,
                     "end": 881,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1650,7 +1843,8 @@
                 {
                     "start": 137,
                     "end": 141,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,6%"
                 }
             ]
         }
@@ -1662,7 +1856,8 @@
                 {
                     "start": 186,
                     "end": 191,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,6 %"
                 }
             ]
         }
@@ -1674,7 +1869,8 @@
                 {
                     "start": 587,
                     "end": 593,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "0,10 %"
                 }
             ]
         }
@@ -1686,7 +1882,8 @@
                 {
                     "start": 143,
                     "end": 147,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -1698,7 +1895,8 @@
                 {
                     "start": 201,
                     "end": 205,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -1710,7 +1908,8 @@
                 {
                     "start": 111,
                     "end": 117,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,50 %"
                 }
             ]
         }
@@ -1722,7 +1921,8 @@
                 {
                     "start": 132,
                     "end": 137,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.60%"
                 }
             ]
         }
@@ -1734,7 +1934,8 @@
                 {
                     "start": 194,
                     "end": 199,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.6 %"
                 }
             ]
         }
@@ -1746,7 +1947,8 @@
                 {
                     "start": 328,
                     "end": 333,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,6 %"
                 }
             ]
         }
@@ -1758,7 +1960,8 @@
                 {
                     "start": 161,
                     "end": 165,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,3%"
                 }
             ]
         }
@@ -1770,7 +1973,8 @@
                 {
                     "start": 744,
                     "end": 746,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1782,7 +1986,8 @@
                 {
                     "start": 205,
                     "end": 207,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1794,22 +1999,26 @@
                 {
                     "start": 403,
                     "end": 408,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 501,
                     "end": 506,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 601,
                     "end": 606,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5 %"
                 },
                 {
                     "start": 641,
                     "end": 646,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -1821,7 +2030,8 @@
                 {
                     "start": 644,
                     "end": 648,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,1%"
                 }
             ]
         }
@@ -1833,7 +2043,8 @@
                 {
                     "start": 412,
                     "end": 416,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -1845,7 +2056,8 @@
                 {
                     "start": 221,
                     "end": 225,
-                    "labels": "AI"
+                    "labels": "AI",
+                    "text_span": "3.5%"
                 }
             ]
         }

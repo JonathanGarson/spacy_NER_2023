@@ -6,7 +6,8 @@
                 {
                     "start": 2102,
                     "end": 2107,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,9 %"
                 }
             ]
         }
@@ -18,12 +19,14 @@
                 {
                     "start": 717,
                     "end": 719,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 },
                 {
                     "start": 1152,
                     "end": 1159,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "59,20 %"
                 }
             ]
         }
@@ -41,7 +44,8 @@
                 {
                     "start": 350,
                     "end": 355,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -53,7 +57,8 @@
                 {
                     "start": 55,
                     "end": 60,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,00%"
                 }
             ]
         }
@@ -65,7 +70,8 @@
                 {
                     "start": 1731,
                     "end": 1733,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -77,12 +83,14 @@
                 {
                     "start": 1262,
                     "end": 1264,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 },
                 {
                     "start": 2243,
                     "end": 2245,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -94,7 +102,8 @@
                 {
                     "start": 285,
                     "end": 290,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5,6 %"
                 }
             ]
         }
@@ -106,12 +115,14 @@
                 {
                     "start": 2139,
                     "end": 2142,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3 %"
                 },
                 {
                     "start": 2303,
                     "end": 2306,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2 %"
                 }
             ]
         }
@@ -129,7 +140,8 @@
                 {
                     "start": 147,
                     "end": 152,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,2 %"
                 }
             ]
         }
@@ -141,12 +153,14 @@
                 {
                     "start": 164,
                     "end": 166,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 210,
                     "end": 212,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -158,12 +172,14 @@
                 {
                     "start": 73,
                     "end": 75,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 2050,
                     "end": 2052,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -175,7 +191,8 @@
                 {
                     "start": 186,
                     "end": 191,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -193,7 +210,8 @@
                 {
                     "start": 588,
                     "end": 590,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -211,7 +229,8 @@
                 {
                     "start": 1880,
                     "end": 1883,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6 %"
                 }
             ]
         }
@@ -223,7 +242,8 @@
                 {
                     "start": 1945,
                     "end": 1951,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5,00 %"
                 }
             ]
         }
@@ -241,7 +261,8 @@
                 {
                     "start": 2204,
                     "end": 2206,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -253,17 +274,20 @@
                 {
                     "start": 654,
                     "end": 656,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1479,
                     "end": 1481,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1796,
                     "end": 1798,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -275,7 +299,8 @@
                 {
                     "start": 329,
                     "end": 334,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,79%"
                 }
             ]
         }
@@ -287,17 +312,20 @@
                 {
                     "start": 317,
                     "end": 319,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 },
                 {
                     "start": 468,
                     "end": 472,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5%"
                 },
                 {
                     "start": 731,
                     "end": 733,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -309,7 +337,8 @@
                 {
                     "start": 604,
                     "end": 609,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.50%"
                 }
             ]
         }
@@ -321,7 +350,8 @@
                 {
                     "start": 181,
                     "end": 185,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4.0%"
                 }
             ]
         }
@@ -333,7 +363,8 @@
                 {
                     "start": 1507,
                     "end": 1512,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,6 %"
                 }
             ]
         }
@@ -345,7 +376,8 @@
                 {
                     "start": 1392,
                     "end": 1395,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -357,7 +389,8 @@
                 {
                     "start": 808,
                     "end": 811,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -369,7 +402,8 @@
                 {
                     "start": 1914,
                     "end": 1917,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -381,7 +415,8 @@
                 {
                     "start": 812,
                     "end": 817,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5.2 %"
                 }
             ]
         }
@@ -393,7 +428,8 @@
                 {
                     "start": 260,
                     "end": 265,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,5 %"
                 }
             ]
         }
@@ -405,7 +441,8 @@
                 {
                     "start": 140,
                     "end": 145,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "+ 4 %"
                 }
             ]
         }
@@ -417,7 +454,8 @@
                 {
                     "start": 1509,
                     "end": 1511,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -429,12 +467,14 @@
                 {
                     "start": 275,
                     "end": 277,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 320,
                     "end": 322,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -446,7 +486,8 @@
                 {
                     "start": 647,
                     "end": 652,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,35%"
                 }
             ]
         }
@@ -458,7 +499,8 @@
                 {
                     "start": 2361,
                     "end": 2363,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -470,12 +512,14 @@
                 {
                     "start": 2035,
                     "end": 2037,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 2206,
                     "end": 2208,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -487,12 +531,14 @@
                 {
                     "start": 182,
                     "end": 186,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5%"
                 },
                 {
                     "start": 247,
                     "end": 249,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -504,12 +550,14 @@
                 {
                     "start": 720,
                     "end": 727,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "+3,83 %"
                 },
                 {
                     "start": 868,
                     "end": 876,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "+ 2,05 %"
                 }
             ]
         }
@@ -521,17 +569,20 @@
                 {
                     "start": 159,
                     "end": 164,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5,6 %"
                 },
                 {
                     "start": 862,
                     "end": 867,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,5 %"
                 },
                 {
                     "start": 1673,
                     "end": 1678,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -543,7 +594,8 @@
                 {
                     "start": 471,
                     "end": 476,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -555,12 +607,14 @@
                 {
                     "start": 182,
                     "end": 184,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6%"
                 },
                 {
                     "start": 420,
                     "end": 424,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6,5%"
                 }
             ]
         }
@@ -572,7 +626,8 @@
                 {
                     "start": 238,
                     "end": 241,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -584,7 +639,8 @@
                 {
                     "start": 279,
                     "end": 284,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,20%"
                 }
             ]
         }
@@ -602,7 +658,8 @@
                 {
                     "start": 81,
                     "end": 86,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -614,7 +671,8 @@
                 {
                     "start": 671,
                     "end": 675,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,8%"
                 }
             ]
         }
@@ -626,7 +684,8 @@
                 {
                     "start": 1175,
                     "end": 1180,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5 %"
                 }
             ]
         }
@@ -638,12 +697,14 @@
                 {
                     "start": 653,
                     "end": 659,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,50 %"
                 },
                 {
                     "start": 720,
                     "end": 726,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "0,50 %"
                 }
             ]
         }
@@ -655,7 +716,8 @@
                 {
                     "start": 707,
                     "end": 713,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6,25 %"
                 }
             ]
         }
@@ -667,7 +729,8 @@
                 {
                     "start": 1361,
                     "end": 1366,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,5 %"
                 }
             ]
         }
@@ -679,7 +742,8 @@
                 {
                     "start": 472,
                     "end": 474,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -691,7 +755,8 @@
                 {
                     "start": 1322,
                     "end": 1327,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.2 %"
                 }
             ]
         }
@@ -703,7 +768,8 @@
                 {
                     "start": 2586,
                     "end": 2591,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4,00%"
                 }
             ]
         }
@@ -721,17 +787,20 @@
                 {
                     "start": 369,
                     "end": 372,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3 %"
                 },
                 {
                     "start": 437,
                     "end": 440,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 497,
                     "end": 502,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,5 %"
                 }
             ]
         }
@@ -743,7 +812,8 @@
                 {
                     "start": 304,
                     "end": 308,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -761,22 +831,26 @@
                 {
                     "start": 2001,
                     "end": 2005,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5%"
                 },
                 {
                     "start": 2103,
                     "end": 2108,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5 %"
                 },
                 {
                     "start": 2470,
                     "end": 2474,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5%"
                 },
                 {
                     "start": 2571,
                     "end": 2576,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5 %"
                 }
             ]
         }
@@ -788,7 +862,8 @@
                 {
                     "start": 696,
                     "end": 700,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -800,12 +875,14 @@
                 {
                     "start": 116,
                     "end": 121,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,6 %"
                 },
                 {
                     "start": 799,
                     "end": 802,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,6"
                 }
             ]
         }
@@ -817,7 +894,8 @@
                 {
                     "start": 837,
                     "end": 839,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -829,7 +907,8 @@
                 {
                     "start": 160,
                     "end": 165,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6,5 %"
                 }
             ]
         }
@@ -841,12 +920,14 @@
                 {
                     "start": 198,
                     "end": 200,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 },
                 {
                     "start": 487,
                     "end": 490,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -858,7 +939,8 @@
                 {
                     "start": 1497,
                     "end": 1500,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -870,7 +952,8 @@
                 {
                     "start": 933,
                     "end": 938,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4,25%"
                 }
             ]
         }
@@ -882,7 +965,8 @@
                 {
                     "start": 1023,
                     "end": 1025,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -894,12 +978,14 @@
                 {
                     "start": 1035,
                     "end": 1039,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1.5%"
                 },
                 {
                     "start": 1100,
                     "end": 1104,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.5%"
                 }
             ]
         }
@@ -911,7 +997,8 @@
                 {
                     "start": 2316,
                     "end": 2317,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "%"
                 }
             ]
         }
@@ -923,7 +1010,8 @@
                 {
                     "start": 674,
                     "end": 676,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -941,7 +1029,8 @@
                 {
                     "start": 46,
                     "end": 49,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -953,7 +1042,8 @@
                 {
                     "start": 542,
                     "end": 545,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -965,27 +1055,32 @@
                 {
                     "start": 204,
                     "end": 206,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 },
                 {
                     "start": 711,
                     "end": 713,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 },
                 {
                     "start": 945,
                     "end": 947,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 },
                 {
                     "start": 1012,
                     "end": 1014,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4%"
                 },
                 {
                     "start": 1027,
                     "end": 1029,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -997,7 +1092,8 @@
                 {
                     "start": 768,
                     "end": 772,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.5%"
                 }
             ]
         }
@@ -1009,12 +1105,14 @@
                 {
                     "start": 2152,
                     "end": 2154,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 2543,
                     "end": 2547,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "+ 3%"
                 }
             ]
         }
@@ -1026,27 +1124,32 @@
                 {
                     "start": 195,
                     "end": 197,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5%"
                 },
                 {
                     "start": 738,
                     "end": 743,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4.5 %"
                 },
                 {
                     "start": 1136,
                     "end": 1140,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,5%"
                 },
                 {
                     "start": 1699,
                     "end": 1701,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 },
                 {
                     "start": 2204,
                     "end": 2206,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1058,7 +1161,8 @@
                 {
                     "start": 695,
                     "end": 699,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6,2%"
                 }
             ]
         }
@@ -1070,7 +1174,8 @@
                 {
                     "start": 766,
                     "end": 769,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "75€"
                 }
             ]
         }
@@ -1082,7 +1187,8 @@
                 {
                     "start": 399,
                     "end": 402,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -1094,12 +1200,14 @@
                 {
                     "start": 1338,
                     "end": 1340,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 2281,
                     "end": 2283,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1%"
                 }
             ]
         }
@@ -1111,7 +1219,8 @@
                 {
                     "start": 306,
                     "end": 309,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -1123,7 +1232,8 @@
                 {
                     "start": 979,
                     "end": 985,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "6,25 %"
                 }
             ]
         }
@@ -1135,7 +1245,8 @@
                 {
                     "start": 70,
                     "end": 74,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -1153,7 +1264,8 @@
                 {
                     "start": 696,
                     "end": 698,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1177,7 +1289,8 @@
                 {
                     "start": 1136,
                     "end": 1139,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -1189,7 +1302,8 @@
                 {
                     "start": 670,
                     "end": 675,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.53%"
                 }
             ]
         }
@@ -1201,7 +1315,8 @@
                 {
                     "start": 2571,
                     "end": 2574,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -1213,7 +1328,8 @@
                 {
                     "start": 539,
                     "end": 544,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.50%"
                 }
             ]
         }
@@ -1225,7 +1341,8 @@
                 {
                     "start": 89,
                     "end": 91,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1237,7 +1354,8 @@
                 {
                     "start": 315,
                     "end": 322,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "+ 3.32%"
                 }
             ]
         }
@@ -1249,7 +1367,8 @@
                 {
                     "start": 151,
                     "end": 155,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -1261,7 +1380,8 @@
                 {
                     "start": 672,
                     "end": 676,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.1%"
                 }
             ]
         }
@@ -1273,7 +1393,8 @@
                 {
                     "start": 853,
                     "end": 859,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,60 %"
                 }
             ]
         }
@@ -1285,12 +1406,14 @@
                 {
                     "start": 931,
                     "end": 933,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 },
                 {
                     "start": 1234,
                     "end": 1236,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1302,12 +1425,14 @@
                 {
                     "start": 733,
                     "end": 737,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,8%"
                 },
                 {
                     "start": 1685,
                     "end": 1687,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1319,7 +1444,8 @@
                 {
                     "start": 394,
                     "end": 400,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.40 %"
                 }
             ]
         }
@@ -1337,12 +1463,14 @@
                 {
                     "start": 152,
                     "end": 154,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 },
                 {
                     "start": 307,
                     "end": 311,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "0.8%"
                 }
             ]
         }
@@ -1354,7 +1482,8 @@
                 {
                     "start": 97,
                     "end": 101,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2.8%"
                 }
             ]
         }
@@ -1366,7 +1495,8 @@
                 {
                     "start": 461,
                     "end": 465,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,5%"
                 }
             ]
         }
@@ -1378,7 +1508,8 @@
                 {
                     "start": 1371,
                     "end": 1375,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1.5%"
                 }
             ]
         }
@@ -1390,7 +1521,8 @@
                 {
                     "start": 1501,
                     "end": 1507,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1.34 %"
                 }
             ]
         }
@@ -1402,7 +1534,8 @@
                 {
                     "start": 959,
                     "end": 961,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1420,7 +1553,8 @@
                 {
                     "start": 1458,
                     "end": 1464,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3,04 %"
                 }
             ]
         }
@@ -1438,7 +1572,8 @@
                 {
                     "start": 1599,
                     "end": 1604,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,60%"
                 }
             ]
         }
@@ -1450,7 +1585,8 @@
                 {
                     "start": 599,
                     "end": 602,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,6"
                 }
             ]
         }
@@ -1462,12 +1598,14 @@
                 {
                     "start": 855,
                     "end": 858,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2 %"
                 },
                 {
                     "start": 1375,
                     "end": 1377,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1485,7 +1623,8 @@
                 {
                     "start": 1947,
                     "end": 1951,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.5%"
                 }
             ]
         }
@@ -1497,7 +1636,8 @@
                 {
                     "start": 1438,
                     "end": 1439,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "%"
                 }
             ]
         }
@@ -1509,7 +1649,8 @@
                 {
                     "start": 1012,
                     "end": 1014,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1521,7 +1662,8 @@
                 {
                     "start": 887,
                     "end": 889,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -1533,7 +1675,8 @@
                 {
                     "start": 1062,
                     "end": 1068,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,50 %"
                 }
             ]
         }
@@ -1545,7 +1688,8 @@
                 {
                     "start": 529,
                     "end": 535,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1.285%"
                 }
             ]
         }
@@ -1557,7 +1701,8 @@
                 {
                     "start": 1705,
                     "end": 1706,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "%"
                 }
             ]
         }
@@ -1569,7 +1714,8 @@
                 {
                     "start": 1453,
                     "end": 1459,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,45 %"
                 }
             ]
         }
@@ -1581,7 +1727,8 @@
                 {
                     "start": 1467,
                     "end": 1468,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "%"
                 }
             ]
         }
@@ -1593,7 +1740,8 @@
                 {
                     "start": 2552,
                     "end": 2558,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2,50 %"
                 }
             ]
         }
@@ -1611,7 +1759,8 @@
                 {
                     "start": 1346,
                     "end": 1347,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "%"
                 }
             ]
         }
@@ -1623,7 +1772,8 @@
                 {
                     "start": 718,
                     "end": 720,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1635,7 +1785,8 @@
                 {
                     "start": 1623,
                     "end": 1625,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -1647,7 +1798,8 @@
                 {
                     "start": 587,
                     "end": 592,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "0.60%"
                 }
             ]
         }
@@ -1659,7 +1811,8 @@
                 {
                     "start": 641,
                     "end": 646,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "0,48%"
                 }
             ]
         }
@@ -1683,7 +1836,8 @@
                 {
                     "start": 583,
                     "end": 589,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1,30 %"
                 }
             ]
         }
@@ -1695,7 +1849,8 @@
                 {
                     "start": 126,
                     "end": 130,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "3.8%"
                 }
             ]
         }
@@ -1707,7 +1862,8 @@
                 {
                     "start": 217,
                     "end": 221,
-                    "labels": "AG"
+                    "labels": "AG",
+                    "text_span": "1.8%"
                 }
             ]
         }

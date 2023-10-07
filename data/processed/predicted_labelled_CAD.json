@@ -6,17 +6,20 @@
                 {
                     "start": 355,
                     "end": 361,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1240,
                     "end": 1246,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1905,
                     "end": 1911,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -34,17 +37,20 @@
                 {
                     "start": 1259,
                     "end": 1265,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1688,
                     "end": 1694,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2171,
                     "end": 2177,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -56,7 +62,8 @@
                 {
                     "start": 9,
                     "end": 15,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -68,12 +75,14 @@
                 {
                     "start": 1191,
                     "end": 1196,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1466,
                     "end": 1472,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -85,7 +94,8 @@
                 {
                     "start": 2364,
                     "end": 2370,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -97,7 +107,8 @@
                 {
                     "start": 1264,
                     "end": 1269,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -115,7 +126,8 @@
                 {
                     "start": 1533,
                     "end": 1538,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -133,7 +145,8 @@
                 {
                     "start": 1806,
                     "end": 1812,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -145,7 +158,8 @@
                 {
                     "start": 393,
                     "end": 398,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -157,7 +171,8 @@
                 {
                     "start": 1236,
                     "end": 1244,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "managers"
                 }
             ]
         }
@@ -169,7 +184,8 @@
                 {
                     "start": 1128,
                     "end": 1133,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -181,12 +197,14 @@
                 {
                     "start": 428,
                     "end": 434,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1490,
                     "end": 1496,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -198,7 +216,8 @@
                 {
                     "start": 1547,
                     "end": 1553,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -210,12 +229,14 @@
                 {
                     "start": 669,
                     "end": 675,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 719,
                     "end": 725,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -227,7 +248,8 @@
                 {
                     "start": 1317,
                     "end": 1323,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -245,7 +267,8 @@
                 {
                     "start": 765,
                     "end": 771,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -257,7 +280,8 @@
                 {
                     "start": 117,
                     "end": 123,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -275,7 +299,8 @@
                 {
                     "start": 795,
                     "end": 801,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -293,7 +318,8 @@
                 {
                     "start": 556,
                     "end": 562,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -305,7 +331,8 @@
                 {
                     "start": 291,
                     "end": 297,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -323,7 +350,8 @@
                 {
                     "start": 1303,
                     "end": 1309,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -335,17 +363,20 @@
                 {
                     "start": 383,
                     "end": 394,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "salariés ic"
                 },
                 {
                     "start": 769,
                     "end": 771,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "ic"
                 },
                 {
                     "start": 1414,
                     "end": 1416,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "ic"
                 }
             ]
         }
@@ -357,12 +388,14 @@
                 {
                     "start": 1192,
                     "end": 1198,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2180,
                     "end": 2186,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -374,7 +407,8 @@
                 {
                     "start": 2299,
                     "end": 2305,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -386,7 +420,8 @@
                 {
                     "start": 1826,
                     "end": 1832,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -416,7 +451,8 @@
                 {
                     "start": 834,
                     "end": 839,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -434,12 +470,14 @@
                 {
                     "start": 788,
                     "end": 793,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1175,
                     "end": 1180,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -451,7 +489,8 @@
                 {
                     "start": 583,
                     "end": 589,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -469,12 +508,14 @@
                 {
                     "start": 1259,
                     "end": 1265,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1299,
                     "end": 1305,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -486,7 +527,8 @@
                 {
                     "start": 1559,
                     "end": 1565,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -498,7 +540,8 @@
                 {
                     "start": 833,
                     "end": 839,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -516,7 +559,8 @@
                 {
                     "start": 988,
                     "end": 994,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -534,17 +578,20 @@
                 {
                     "start": 1882,
                     "end": 1888,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1928,
                     "end": 1934,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2027,
                     "end": 2033,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -556,12 +603,14 @@
                 {
                     "start": 732,
                     "end": 738,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 802,
                     "end": 808,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -573,12 +622,14 @@
                 {
                     "start": 819,
                     "end": 825,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 893,
                     "end": 899,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -590,17 +641,20 @@
                 {
                     "start": 722,
                     "end": 728,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 814,
                     "end": 820,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1416,
                     "end": 1422,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -618,32 +672,38 @@
                 {
                     "start": 614,
                     "end": 620,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 821,
                     "end": 827,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 893,
                     "end": 899,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 925,
                     "end": 931,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1360,
                     "end": 1366,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1500,
                     "end": 1506,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -655,7 +715,8 @@
                 {
                     "start": 755,
                     "end": 760,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -673,7 +734,8 @@
                 {
                     "start": 710,
                     "end": 716,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -685,7 +747,8 @@
                 {
                     "start": 2235,
                     "end": 2241,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -697,7 +760,8 @@
                 {
                     "start": 522,
                     "end": 528,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -709,12 +773,14 @@
                 {
                     "start": 453,
                     "end": 458,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 546,
                     "end": 551,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -726,27 +792,32 @@
                 {
                     "start": 1560,
                     "end": 1566,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1614,
                     "end": 1620,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2081,
                     "end": 2087,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2406,
                     "end": 2412,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2526,
                     "end": 2532,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -758,7 +829,8 @@
                 {
                     "start": 1043,
                     "end": 1049,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -770,12 +842,14 @@
                 {
                     "start": 1019,
                     "end": 1025,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1728,
                     "end": 1734,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -787,7 +861,8 @@
                 {
                     "start": 1642,
                     "end": 1648,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -799,17 +874,20 @@
                 {
                     "start": 818,
                     "end": 824,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1278,
                     "end": 1284,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1784,
                     "end": 1790,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -821,12 +899,14 @@
                 {
                     "start": 1959,
                     "end": 1965,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2002,
                     "end": 2008,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -838,7 +918,8 @@
                 {
                     "start": 2334,
                     "end": 2340,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -850,22 +931,26 @@
                 {
                     "start": 188,
                     "end": 198,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "ingénieurs"
                 },
                 {
                     "start": 202,
                     "end": 208,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 511,
                     "end": 521,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "ingénieurs"
                 },
                 {
                     "start": 525,
                     "end": 531,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -883,7 +968,8 @@
                 {
                     "start": 786,
                     "end": 792,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -895,7 +981,8 @@
                 {
                     "start": 2070,
                     "end": 2076,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -913,7 +1000,8 @@
                 {
                     "start": 1733,
                     "end": 1739,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -925,7 +1013,8 @@
                 {
                     "start": 800,
                     "end": 806,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -937,7 +1026,8 @@
                 {
                     "start": 2378,
                     "end": 2384,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -949,12 +1039,14 @@
                 {
                     "start": 293,
                     "end": 299,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2263,
                     "end": 2269,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -972,7 +1064,8 @@
                 {
                     "start": 1597,
                     "end": 1603,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -984,7 +1077,8 @@
                 {
                     "start": 2341,
                     "end": 2347,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1002,12 +1096,14 @@
                 {
                     "start": 1355,
                     "end": 1361,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1594,
                     "end": 1599,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1019,7 +1115,8 @@
                 {
                     "start": 1315,
                     "end": 1321,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1031,7 +1128,8 @@
                 {
                     "start": 441,
                     "end": 447,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1043,7 +1141,8 @@
                 {
                     "start": 988,
                     "end": 994,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1055,12 +1154,14 @@
                 {
                     "start": 726,
                     "end": 732,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1900,
                     "end": 1906,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1084,7 +1185,8 @@
                 {
                     "start": 2450,
                     "end": 2456,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1108,7 +1210,8 @@
                 {
                     "start": 69,
                     "end": 75,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1126,12 +1229,14 @@
                 {
                     "start": 1233,
                     "end": 1239,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1318,
                     "end": 1323,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1143,7 +1248,8 @@
                 {
                     "start": 863,
                     "end": 868,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1161,7 +1267,8 @@
                 {
                     "start": 1037,
                     "end": 1043,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1179,7 +1286,8 @@
                 {
                     "start": 1970,
                     "end": 1976,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1191,7 +1299,8 @@
                 {
                     "start": 679,
                     "end": 685,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1203,7 +1312,8 @@
                 {
                     "start": 1855,
                     "end": 1861,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1221,7 +1331,8 @@
                 {
                     "start": 958,
                     "end": 964,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1233,7 +1344,8 @@
                 {
                     "start": 2066,
                     "end": 2072,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1245,7 +1357,8 @@
                 {
                     "start": 212,
                     "end": 218,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1257,12 +1370,14 @@
                 {
                     "start": 293,
                     "end": 299,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 404,
                     "end": 410,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1292,7 +1407,8 @@
                 {
                     "start": 477,
                     "end": 483,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1304,7 +1420,8 @@
                 {
                     "start": 757,
                     "end": 763,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1316,12 +1433,14 @@
                 {
                     "start": 898,
                     "end": 903,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1377,
                     "end": 1383,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1333,12 +1452,14 @@
                 {
                     "start": 2047,
                     "end": 2052,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 2542,
                     "end": 2547,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1350,7 +1471,8 @@
                 {
                     "start": 1969,
                     "end": 1975,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1368,12 +1490,14 @@
                 {
                     "start": 1614,
                     "end": 1619,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1697,
                     "end": 1703,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1385,12 +1509,14 @@
                 {
                     "start": 1220,
                     "end": 1225,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1288,
                     "end": 1294,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1402,7 +1528,8 @@
                 {
                     "start": 1633,
                     "end": 1639,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1414,7 +1541,8 @@
                 {
                     "start": 1220,
                     "end": 1226,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1426,12 +1554,14 @@
                 {
                     "start": 1488,
                     "end": 1493,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 1883,
                     "end": 1888,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1443,17 +1573,20 @@
                 {
                     "start": 1957,
                     "end": 1962,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 2194,
                     "end": 2200,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2516,
                     "end": 2522,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1519,7 +1652,8 @@
                 {
                     "start": 1643,
                     "end": 1649,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1531,7 +1665,8 @@
                 {
                     "start": 1491,
                     "end": 1496,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1543,7 +1678,8 @@
                 {
                     "start": 1202,
                     "end": 1208,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1555,12 +1691,14 @@
                 {
                     "start": 493,
                     "end": 499,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 656,
                     "end": 662,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1578,7 +1716,8 @@
                 {
                     "start": 1580,
                     "end": 1586,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1596,7 +1735,8 @@
                 {
                     "start": 1546,
                     "end": 1551,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1614,7 +1754,8 @@
                 {
                     "start": 1435,
                     "end": 1441,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1626,7 +1767,8 @@
                 {
                     "start": 102,
                     "end": 108,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1638,17 +1780,20 @@
                 {
                     "start": 1069,
                     "end": 1074,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "iii.1"
                 },
                 {
                     "start": 1603,
                     "end": 1609,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2221,
                     "end": 2226,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1660,12 +1805,14 @@
                 {
                     "start": 872,
                     "end": 878,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1119,
                     "end": 1125,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1677,7 +1824,8 @@
                 {
                     "start": 622,
                     "end": 628,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1701,7 +1849,8 @@
                 {
                     "start": 1692,
                     "end": 1699,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "collège"
                 }
             ]
         }
@@ -1719,7 +1868,8 @@
                 {
                     "start": 412,
                     "end": 417,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1743,7 +1893,8 @@
                 {
                     "start": 795,
                     "end": 800,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -1755,7 +1906,8 @@
                 {
                     "start": 1588,
                     "end": 1594,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1797,12 +1949,14 @@
                 {
                     "start": 97,
                     "end": 103,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 198,
                     "end": 204,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1826,7 +1980,8 @@
                 {
                     "start": 976,
                     "end": 982,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1868,7 +2023,8 @@
                 {
                     "start": 491,
                     "end": 497,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1886,7 +2042,8 @@
                 {
                     "start": 879,
                     "end": 885,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1904,7 +2061,8 @@
                 {
                     "start": 1847,
                     "end": 1853,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1928,12 +2086,14 @@
                 {
                     "start": 490,
                     "end": 495,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 },
                 {
                     "start": 804,
                     "end": 810,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1945,7 +2105,8 @@
                 {
                     "start": 1359,
                     "end": 1365,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1969,12 +2130,14 @@
                 {
                     "start": 1405,
                     "end": 1411,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1543,
                     "end": 1549,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -1986,12 +2149,14 @@
                 {
                     "start": 1085,
                     "end": 1091,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1411,
                     "end": 1416,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -2003,7 +2168,8 @@
                 {
                     "start": 217,
                     "end": 223,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2027,7 +2193,8 @@
                 {
                     "start": 1398,
                     "end": 1404,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2051,12 +2218,14 @@
                 {
                     "start": 151,
                     "end": 157,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1015,
                     "end": 1021,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2074,7 +2243,8 @@
                 {
                     "start": 1450,
                     "end": 1456,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2086,22 +2256,26 @@
                 {
                     "start": 98,
                     "end": 104,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 948,
                     "end": 954,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1651,
                     "end": 1657,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 1765,
                     "end": 1770,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadre"
                 }
             ]
         }
@@ -2113,7 +2287,8 @@
                 {
                     "start": 1152,
                     "end": 1158,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2125,7 +2300,8 @@
                 {
                     "start": 611,
                     "end": 617,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2137,12 +2313,14 @@
                 {
                     "start": 798,
                     "end": 804,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 855,
                     "end": 861,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2154,12 +2332,14 @@
                 {
                     "start": 840,
                     "end": 846,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 897,
                     "end": 903,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2171,17 +2351,20 @@
                 {
                     "start": 1990,
                     "end": 1996,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2182,
                     "end": 2188,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 },
                 {
                     "start": 2495,
                     "end": 2501,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }
@@ -2193,7 +2376,8 @@
                 {
                     "start": 917,
                     "end": 923,
-                    "labels": "CAD"
+                    "labels": "CAD",
+                    "text_span": "cadres"
                 }
             ]
         }

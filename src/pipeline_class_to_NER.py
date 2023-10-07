@@ -70,7 +70,8 @@ def NER(ner_model, list:list):
             {
                 "start": ent.start_char,
                 "end": ent.end_char,
-                "labels": ent.label_
+                "labels": ent.label_,
+                "text_span": doc.text[ent.start_char:ent.end_char]
             }
             for ent in doc.ents
         ]

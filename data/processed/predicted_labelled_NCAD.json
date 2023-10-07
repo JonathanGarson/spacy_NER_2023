@@ -6,7 +6,8 @@
                 {
                     "start": 1787,
                     "end": 1796,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -24,22 +25,26 @@
                 {
                     "start": 456,
                     "end": 466,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 492,
                     "end": 502,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1767,
                     "end": 1776,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 2070,
                     "end": 2079,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -51,17 +56,20 @@
                 {
                     "start": 713,
                     "end": 723,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 792,
                     "end": 796,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "5.4%"
                 },
                 {
                     "start": 1126,
                     "end": 1135,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -73,12 +81,14 @@
                 {
                     "start": 993,
                     "end": 1004,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non- cadres"
                 },
                 {
                     "start": 1314,
                     "end": 1324,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -90,17 +100,20 @@
                 {
                     "start": 92,
                     "end": 101,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1933,
                     "end": 1942,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2036,
                     "end": 2045,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -118,17 +131,20 @@
                 {
                     "start": 344,
                     "end": 354,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1358,
                     "end": 1368,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1955,
                     "end": 1965,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -140,17 +156,20 @@
                 {
                     "start": 1103,
                     "end": 1113,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1148,
                     "end": 1158,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1214,
                     "end": 1224,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -162,7 +181,8 @@
                 {
                     "start": 238,
                     "end": 247,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -174,17 +194,20 @@
                 {
                     "start": 131,
                     "end": 141,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1434,
                     "end": 1444,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1594,
                     "end": 1604,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -196,7 +219,8 @@
                 {
                     "start": 783,
                     "end": 793,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -208,12 +232,14 @@
                 {
                     "start": 558,
                     "end": 563,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1467,
                     "end": 1472,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -225,7 +251,8 @@
                 {
                     "start": 628,
                     "end": 638,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -237,7 +264,8 @@
                 {
                     "start": 1581,
                     "end": 1590,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -249,12 +277,14 @@
                 {
                     "start": 539,
                     "end": 544,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 713,
                     "end": 718,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -272,12 +302,14 @@
                 {
                     "start": 1360,
                     "end": 1369,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 2048,
                     "end": 2057,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -289,12 +321,14 @@
                 {
                     "start": 1855,
                     "end": 1864,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2056,
                     "end": 2065,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -306,22 +340,26 @@
                 {
                     "start": 106,
                     "end": 115,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 544,
                     "end": 553,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 642,
                     "end": 652,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1023,
                     "end": 1033,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -333,17 +371,20 @@
                 {
                     "start": 707,
                     "end": 717,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1027,
                     "end": 1036,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1279,
                     "end": 1288,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -355,27 +396,32 @@
                 {
                     "start": 229,
                     "end": 234,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 575,
                     "end": 580,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 928,
                     "end": 933,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1090,
                     "end": 1138,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "ouvriers-employes-techniciens-agents de maitrise"
                 },
                 {
                     "start": 1904,
                     "end": 1909,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -387,12 +433,14 @@
                 {
                     "start": 1291,
                     "end": 1301,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1485,
                     "end": 1495,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -404,7 +452,8 @@
                 {
                     "start": 1226,
                     "end": 1236,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -416,7 +465,8 @@
                 {
                     "start": 858,
                     "end": 868,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -428,17 +478,20 @@
                 {
                     "start": 116,
                     "end": 126,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1437,
                     "end": 1447,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2540,
                     "end": 2550,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -450,12 +503,14 @@
                 {
                     "start": 186,
                     "end": 191,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 352,
                     "end": 357,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -467,32 +522,38 @@
                 {
                     "start": 45,
                     "end": 55,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 105,
                     "end": 115,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 273,
                     "end": 283,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 400,
                     "end": 410,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 462,
                     "end": 472,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 623,
                     "end": 633,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -504,12 +565,14 @@
                 {
                     "start": 316,
                     "end": 326,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 563,
                     "end": 573,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -521,22 +584,26 @@
                 {
                     "start": 130,
                     "end": 139,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 208,
                     "end": 218,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 267,
                     "end": 277,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 518,
                     "end": 528,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -548,7 +615,8 @@
                 {
                     "start": 133,
                     "end": 142,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -560,27 +628,32 @@
                 {
                     "start": 990,
                     "end": 995,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1029,
                     "end": 1034,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1168,
                     "end": 1173,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1416,
                     "end": 1421,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1523,
                     "end": 1528,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -592,7 +665,8 @@
                 {
                     "start": 848,
                     "end": 858,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -604,47 +678,56 @@
                 {
                     "start": 494,
                     "end": 504,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 653,
                     "end": 663,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1286,
                     "end": 1296,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1513,
                     "end": 1523,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1672,
                     "end": 1682,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1921,
                     "end": 1931,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2067,
                     "end": 2077,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2206,
                     "end": 2216,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2352,
                     "end": 2362,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -656,7 +739,8 @@
                 {
                     "start": 535,
                     "end": 545,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -668,7 +752,8 @@
                 {
                     "start": 2504,
                     "end": 2513,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -680,27 +765,32 @@
                 {
                     "start": 618,
                     "end": 628,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 954,
                     "end": 964,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1594,
                     "end": 1604,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1920,
                     "end": 1930,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2334,
                     "end": 2344,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -712,37 +802,44 @@
                 {
                     "start": 194,
                     "end": 199,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 468,
                     "end": 473,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 773,
                     "end": 778,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1168,
                     "end": 1173,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1607,
                     "end": 1612,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1743,
                     "end": 1748,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1946,
                     "end": 1951,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -754,12 +851,14 @@
                 {
                     "start": 1742,
                     "end": 1752,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1820,
                     "end": 1830,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -771,12 +870,14 @@
                 {
                     "start": 416,
                     "end": 426,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1000,
                     "end": 1009,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -788,17 +889,20 @@
                 {
                     "start": 316,
                     "end": 326,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1200,
                     "end": 1210,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1834,
                     "end": 1844,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -810,7 +914,8 @@
                 {
                     "start": 2724,
                     "end": 2734,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oe1 à ta5."
                 }
             ]
         }
@@ -822,12 +927,14 @@
                 {
                     "start": 825,
                     "end": 835,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1423,
                     "end": 1433,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -839,22 +946,26 @@
                 {
                     "start": 153,
                     "end": 158,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 331,
                     "end": 336,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 614,
                     "end": 619,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1272,
                     "end": 1277,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -866,7 +977,8 @@
                 {
                     "start": 427,
                     "end": 432,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -878,7 +990,8 @@
                 {
                     "start": 858,
                     "end": 868,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -890,12 +1003,14 @@
                 {
                     "start": 326,
                     "end": 336,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 656,
                     "end": 665,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -907,17 +1022,20 @@
                 {
                     "start": 207,
                     "end": 217,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 928,
                     "end": 937,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1266,
                     "end": 1276,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -929,12 +1047,14 @@
                 {
                     "start": 1637,
                     "end": 1647,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1730,
                     "end": 1740,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -946,7 +1066,8 @@
                 {
                     "start": 762,
                     "end": 772,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -958,7 +1079,8 @@
                 {
                     "start": 71,
                     "end": 76,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -970,7 +1092,8 @@
                 {
                     "start": 237,
                     "end": 242,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -982,17 +1105,20 @@
                 {
                     "start": 41,
                     "end": 46,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 541,
                     "end": 546,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 962,
                     "end": 967,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -1004,17 +1130,20 @@
                 {
                     "start": 436,
                     "end": 446,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 498,
                     "end": 503,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 },
                 {
                     "start": 1154,
                     "end": 1159,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -1026,7 +1155,8 @@
                 {
                     "start": 811,
                     "end": 825,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oe1 à ta5 sous"
                 }
             ]
         }
@@ -1038,7 +1168,8 @@
                 {
                     "start": 78,
                     "end": 88,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1050,7 +1181,8 @@
                 {
                     "start": 36,
                     "end": 41,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "oetam"
                 }
             ]
         }
@@ -1068,7 +1200,8 @@
                 {
                     "start": 1051,
                     "end": 1061,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -1080,12 +1213,14 @@
                 {
                     "start": 1937,
                     "end": 1946,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2443,
                     "end": 2452,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -1097,7 +1232,8 @@
                 {
                     "start": 877,
                     "end": 886,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -1109,22 +1245,26 @@
                 {
                     "start": 45,
                     "end": 55,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 71,
                     "end": 81,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 662,
                     "end": 671,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1629,
                     "end": 1639,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1136,37 +1276,44 @@
                 {
                     "start": 74,
                     "end": 83,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 272,
                     "end": 282,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1082,
                     "end": 1092,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1200,
                     "end": 1209,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1414,
                     "end": 1424,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 1520,
                     "end": 1529,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1879,
                     "end": 1888,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -1178,27 +1325,32 @@
                 {
                     "start": 609,
                     "end": 618,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 1850,
                     "end": 1859,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 1928,
                     "end": 1938,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 2535,
                     "end": 2544,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2751,
                     "end": 2761,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1210,12 +1362,14 @@
                 {
                     "start": 1034,
                     "end": 1044,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1658,
                     "end": 1668,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1227,32 +1381,38 @@
                 {
                     "start": 371,
                     "end": 380,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 390,
                     "end": 399,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 538,
                     "end": 547,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 767,
                     "end": 776,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 833,
                     "end": 842,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1075,
                     "end": 1084,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -1264,7 +1424,8 @@
                 {
                     "start": 1444,
                     "end": 1454,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1276,7 +1437,8 @@
                 {
                     "start": 1267,
                     "end": 1276,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 }
             ]
         }
@@ -1288,12 +1450,14 @@
                 {
                     "start": 1040,
                     "end": 1050,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 2017,
                     "end": 2027,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1305,7 +1469,8 @@
                 {
                     "start": 1930,
                     "end": 1940,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -1317,12 +1482,14 @@
                 {
                     "start": 887,
                     "end": 896,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 1073,
                     "end": 1082,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -1334,7 +1501,8 @@
                 {
                     "start": 1462,
                     "end": 1472,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1346,7 +1514,8 @@
                 {
                     "start": 362,
                     "end": 372,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1358,12 +1527,14 @@
                 {
                     "start": 219,
                     "end": 223,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "team"
                 },
                 {
                     "start": 283,
                     "end": 295,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "team members"
                 }
             ]
         }
@@ -1375,7 +1546,8 @@
                 {
                     "start": 1284,
                     "end": 1294,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1393,7 +1565,8 @@
                 {
                     "start": 1126,
                     "end": 1170,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "toutes les catégories de salariés hors cadre"
                 }
             ]
         }
@@ -1405,12 +1578,14 @@
                 {
                     "start": 478,
                     "end": 487,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2544,
                     "end": 2554,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non promus"
                 }
             ]
         }
@@ -1422,7 +1597,8 @@
                 {
                     "start": 370,
                     "end": 380,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -1434,22 +1610,26 @@
                 {
                     "start": 269,
                     "end": 279,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 2474,
                     "end": 2484,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 2666,
                     "end": 2676,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 2709,
                     "end": 2719,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1461,47 +1641,56 @@
                 {
                     "start": 93,
                     "end": 103,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 177,
                     "end": 187,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 281,
                     "end": 291,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 489,
                     "end": 499,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 705,
                     "end": 715,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 },
                 {
                     "start": 798,
                     "end": 807,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadre"
                 },
                 {
                     "start": 1772,
                     "end": 1781,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2141,
                     "end": 2150,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 },
                 {
                     "start": 2215,
                     "end": 2224,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadre"
                 }
             ]
         }
@@ -1513,7 +1702,8 @@
                 {
                     "start": 137,
                     "end": 147,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non cadres"
                 }
             ]
         }
@@ -1525,22 +1715,26 @@
                 {
                     "start": 418,
                     "end": 428,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1327,
                     "end": 1337,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1419,
                     "end": 1429,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1583,
                     "end": 1593,
-                    "labels": "NCAD"
+                    "labels": "NCAD",
+                    "text_span": "non-cadres"
                 }
             ]
         }

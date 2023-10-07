@@ -6,7 +6,8 @@
                 {
                     "start": 322,
                     "end": 326,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "5,8%"
                 }
             ]
         }
@@ -24,32 +25,38 @@
                 {
                     "start": 73,
                     "end": 75,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 },
                 {
                     "start": 535,
                     "end": 537,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 },
                 {
                     "start": 589,
                     "end": 591,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 },
                 {
                     "start": 643,
                     "end": 645,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 },
                 {
                     "start": 697,
                     "end": 699,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2%"
                 },
                 {
                     "start": 751,
                     "end": 753,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2%"
                 }
             ]
         }
@@ -61,12 +68,14 @@
                 {
                     "start": 137,
                     "end": 142,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4,92%"
                 },
                 {
                     "start": 329,
                     "end": 334,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,79%"
                 }
             ]
         }
@@ -78,7 +87,8 @@
                 {
                     "start": 514,
                     "end": 519,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6,5 %"
                 }
             ]
         }
@@ -90,7 +100,8 @@
                 {
                     "start": 993,
                     "end": 997,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -102,7 +113,8 @@
                 {
                     "start": 848,
                     "end": 850,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "5%"
                 }
             ]
         }
@@ -114,42 +126,50 @@
                 {
                     "start": 396,
                     "end": 398,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 },
                 {
                     "start": 547,
                     "end": 549,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 },
                 {
                     "start": 700,
                     "end": 702,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 },
                 {
                     "start": 934,
                     "end": 936,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 },
                 {
                     "start": 1013,
                     "end": 1015,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 },
                 {
                     "start": 1305,
                     "end": 1309,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2.5%"
                 },
                 {
                     "start": 1539,
                     "end": 1541,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 },
                 {
                     "start": 1623,
                     "end": 1627,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2.5%"
                 }
             ]
         }
@@ -161,17 +181,20 @@
                 {
                     "start": 1713,
                     "end": 1715,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 },
                 {
                     "start": 1842,
                     "end": 1844,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 },
                 {
                     "start": 1871,
                     "end": 1873,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -183,7 +206,8 @@
                 {
                     "start": 657,
                     "end": 659,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -195,7 +219,8 @@
                 {
                     "start": 964,
                     "end": 968,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -207,7 +232,8 @@
                 {
                     "start": 1798,
                     "end": 1804,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4.00 %"
                 }
             ]
         }
@@ -219,7 +245,8 @@
                 {
                     "start": 663,
                     "end": 667,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2.8%"
                 }
             ]
         }
@@ -231,7 +258,8 @@
                 {
                     "start": 1614,
                     "end": 1616,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -243,7 +271,8 @@
                 {
                     "start": 764,
                     "end": 766,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -255,7 +284,8 @@
                 {
                     "start": 159,
                     "end": 164,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "5,6 %"
                 }
             ]
         }
@@ -267,7 +297,8 @@
                 {
                     "start": 700,
                     "end": 703,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -279,7 +310,8 @@
                 {
                     "start": 128,
                     "end": 130,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -291,7 +323,8 @@
                 {
                     "start": 1831,
                     "end": 1834,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6 %"
                 }
             ]
         }
@@ -303,7 +336,8 @@
                 {
                     "start": 896,
                     "end": 898,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -315,7 +349,8 @@
                 {
                     "start": 160,
                     "end": 165,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6,5 %"
                 }
             ]
         }
@@ -327,7 +362,8 @@
                 {
                     "start": 1755,
                     "end": 1758,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "5 %"
                 }
             ]
         }
@@ -339,7 +375,8 @@
                 {
                     "start": 326,
                     "end": 328,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -351,7 +388,8 @@
                 {
                     "start": 653,
                     "end": 657,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4,5%"
                 }
             ]
         }
@@ -363,7 +401,8 @@
                 {
                     "start": 764,
                     "end": 766,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -375,7 +414,8 @@
                 {
                     "start": 260,
                     "end": 262,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -387,7 +427,8 @@
                 {
                     "start": 2385,
                     "end": 2387,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -405,7 +446,8 @@
                 {
                     "start": 218,
                     "end": 220,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "6%"
                 }
             ]
         }
@@ -417,7 +459,8 @@
                 {
                     "start": 111,
                     "end": 116,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,25%"
                 }
             ]
         }
@@ -429,7 +472,8 @@
                 {
                     "start": 1224,
                     "end": 1229,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.2 %"
                 }
             ]
         }
@@ -441,27 +485,32 @@
                 {
                     "start": 122,
                     "end": 128,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4,66 %"
                 },
                 {
                     "start": 374,
                     "end": 379,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4,66%"
                 },
                 {
                     "start": 478,
                     "end": 482,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,9%"
                 },
                 {
                     "start": 599,
                     "end": 603,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,6%"
                 },
                 {
                     "start": 717,
                     "end": 721,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "0,3%"
                 }
             ]
         }
@@ -473,7 +522,8 @@
                 {
                     "start": 225,
                     "end": 231,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2.50 %"
                 }
             ]
         }
@@ -485,7 +535,8 @@
                 {
                     "start": 2185,
                     "end": 2187,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -497,7 +548,8 @@
                 {
                     "start": 801,
                     "end": 806,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,85%"
                 }
             ]
         }
@@ -509,7 +561,8 @@
                 {
                     "start": 1706,
                     "end": 1711,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,85%"
                 }
             ]
         }
@@ -521,7 +574,8 @@
                 {
                     "start": 2587,
                     "end": 2592,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "1.51%"
                 }
             ]
         }
@@ -533,7 +587,8 @@
                 {
                     "start": 715,
                     "end": 719,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.2%"
                 }
             ]
         }
@@ -551,7 +606,8 @@
                 {
                     "start": 237,
                     "end": 241,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -563,7 +619,8 @@
                 {
                     "start": 189,
                     "end": 194,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,6 %"
                 }
             ]
         }
@@ -575,7 +632,8 @@
                 {
                     "start": 143,
                     "end": 147,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,5%"
                 }
             ]
         }
@@ -587,12 +645,14 @@
                 {
                     "start": 161,
                     "end": 165,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.4%"
                 },
                 {
                     "start": 423,
                     "end": 428,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.2 %"
                 }
             ]
         }
@@ -604,7 +664,8 @@
                 {
                     "start": 111,
                     "end": 117,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,50 %"
                 }
             ]
         }
@@ -616,7 +677,8 @@
                 {
                     "start": 132,
                     "end": 137,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.60%"
                 }
             ]
         }
@@ -628,7 +690,8 @@
                 {
                     "start": 194,
                     "end": 199,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3.6 %"
                 }
             ]
         }
@@ -640,17 +703,20 @@
                 {
                     "start": 328,
                     "end": 333,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,6 %"
                 },
                 {
                     "start": 458,
                     "end": 463,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,4 %"
                 },
                 {
                     "start": 654,
                     "end": 658,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,4%"
                 }
             ]
         }
@@ -662,7 +728,8 @@
                 {
                     "start": 852,
                     "end": 855,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -674,7 +741,8 @@
                 {
                     "start": 124,
                     "end": 128,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,5%"
                 }
             ]
         }
@@ -686,12 +754,14 @@
                 {
                     "start": 1183,
                     "end": 1188,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,1 %"
                 },
                 {
                     "start": 1191,
                     "end": 1194,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -703,12 +773,14 @@
                 {
                     "start": 396,
                     "end": 401,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,1 %"
                 },
                 {
                     "start": 404,
                     "end": 407,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -720,7 +792,8 @@
                 {
                     "start": 114,
                     "end": 116,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -732,7 +805,8 @@
                 {
                     "start": 918,
                     "end": 920,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3%"
                 }
             ]
         }
@@ -744,7 +818,8 @@
                 {
                     "start": 420,
                     "end": 423,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4 %"
                 }
             ]
         }
@@ -762,7 +837,8 @@
                 {
                     "start": 1734,
                     "end": 1737,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3 %"
                 }
             ]
         }
@@ -774,7 +850,8 @@
                 {
                     "start": 180,
                     "end": 184,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,8%"
                 }
             ]
         }
@@ -786,7 +863,8 @@
                 {
                     "start": 699,
                     "end": 705,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4.05 %"
                 }
             ]
         }
@@ -798,7 +876,8 @@
                 {
                     "start": 223,
                     "end": 225,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "4%"
                 }
             ]
         }
@@ -810,7 +889,8 @@
                 {
                     "start": 223,
                     "end": 228,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,2 %"
                 }
             ]
         }
@@ -822,7 +902,8 @@
                 {
                     "start": 464,
                     "end": 468,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "3,4%"
                 }
             ]
         }
@@ -834,7 +915,8 @@
                 {
                     "start": 182,
                     "end": 187,
-                    "labels": "ATOT"
+                    "labels": "ATOT",
+                    "text_span": "2,4 %"
                 }
             ]
         }

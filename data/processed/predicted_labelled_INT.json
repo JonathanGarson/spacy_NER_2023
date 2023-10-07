@@ -6,17 +6,20 @@
                 {
                     "start": 304,
                     "end": 327,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "maîtrises d’encadrement"
                 },
                 {
                     "start": 839,
                     "end": 862,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "maîtrises d’encadrement"
                 },
                 {
                     "start": 1739,
                     "end": 1762,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "maîtrises d’encadrement"
                 }
             ]
         }
@@ -28,12 +31,14 @@
                 {
                     "start": 814,
                     "end": 825,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 829,
                     "end": 847,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -45,12 +50,14 @@
                 {
                     "start": 1462,
                     "end": 1479,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maitrise"
                 },
                 {
                     "start": 1688,
                     "end": 1706,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -62,7 +69,8 @@
                 {
                     "start": 897,
                     "end": 914,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -74,7 +82,8 @@
                 {
                     "start": 1839,
                     "end": 1843,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -86,17 +95,20 @@
                 {
                     "start": 91,
                     "end": 102,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 110,
                     "end": 128,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 2119,
                     "end": 2137,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -108,12 +120,14 @@
                 {
                     "start": 930,
                     "end": 934,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1219,
                     "end": 1223,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -125,7 +139,8 @@
                 {
                     "start": 566,
                     "end": 570,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "atam"
                 }
             ]
         }
@@ -137,12 +152,14 @@
                 {
                     "start": 209,
                     "end": 220,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 222,
                     "end": 240,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -154,7 +171,8 @@
                 {
                     "start": 269,
                     "end": 287,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -166,12 +184,14 @@
                 {
                     "start": 599,
                     "end": 617,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1024,
                     "end": 1042,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -183,7 +203,8 @@
                 {
                     "start": 1281,
                     "end": 1299,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -195,22 +216,26 @@
                 {
                     "start": 341,
                     "end": 345,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 775,
                     "end": 779,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1238,
                     "end": 1242,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 2277,
                     "end": 2285,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "toujours"
                 }
             ]
         }
@@ -222,22 +247,26 @@
                 {
                     "start": 1138,
                     "end": 1149,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1150,
                     "end": 1168,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1270,
                     "end": 1281,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1282,
                     "end": 1300,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -249,7 +278,8 @@
                 {
                     "start": 729,
                     "end": 747,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -261,12 +291,14 @@
                 {
                     "start": 1069,
                     "end": 1080,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1082,
                     "end": 1100,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -278,12 +310,14 @@
                 {
                     "start": 784,
                     "end": 802,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 805,
                     "end": 816,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -295,22 +329,26 @@
                 {
                     "start": 1108,
                     "end": 1119,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1120,
                     "end": 1138,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 1169,
                     "end": 1180,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1181,
                     "end": 1199,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -322,7 +360,8 @@
                 {
                     "start": 499,
                     "end": 517,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -334,7 +373,8 @@
                 {
                     "start": 1569,
                     "end": 1588,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrises"
                 }
             ]
         }
@@ -346,7 +386,8 @@
                 {
                     "start": 406,
                     "end": 410,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -358,12 +399,14 @@
                 {
                     "start": 214,
                     "end": 222,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "maitrise"
                 },
                 {
                     "start": 947,
                     "end": 955,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "maitrise"
                 }
             ]
         }
@@ -375,37 +418,44 @@
                 {
                     "start": 1083,
                     "end": 1101,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1165,
                     "end": 1182,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1296,
                     "end": 1313,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1427,
                     "end": 1444,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1556,
                     "end": 1573,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1688,
                     "end": 1705,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1819,
                     "end": 1836,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -417,7 +467,8 @@
                 {
                     "start": 322,
                     "end": 326,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -429,17 +480,20 @@
                 {
                     "start": 317,
                     "end": 328,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 332,
                     "end": 350,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1443,
                     "end": 1447,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -451,7 +505,8 @@
                 {
                     "start": 36,
                     "end": 40,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "atam"
                 }
             ]
         }
@@ -463,7 +518,8 @@
                 {
                     "start": 569,
                     "end": 573,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "atam"
                 }
             ]
         }
@@ -475,22 +531,26 @@
                 {
                     "start": 82,
                     "end": 100,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 103,
                     "end": 114,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 183,
                     "end": 201,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 204,
                     "end": 215,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -502,12 +562,14 @@
                 {
                     "start": 1746,
                     "end": 1763,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maitrise"
                 },
                 {
                     "start": 1767,
                     "end": 1777,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 }
             ]
         }
@@ -525,7 +587,8 @@
                 {
                     "start": 150,
                     "end": 154,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -537,12 +600,14 @@
                 {
                     "start": 618,
                     "end": 628,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "non-cadres"
                 },
                 {
                     "start": 1108,
                     "end": 1118,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "non-cadres"
                 }
             ]
         }
@@ -554,27 +619,32 @@
                 {
                     "start": 1089,
                     "end": 1100,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1102,
                     "end": 1120,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1124,
                     "end": 1140,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "assimilés cadres"
                 },
                 {
                     "start": 1371,
                     "end": 1375,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1379,
                     "end": 1395,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "assimilés cadres"
                 }
             ]
         }
@@ -586,7 +656,8 @@
                 {
                     "start": 1737,
                     "end": 1755,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -598,22 +669,26 @@
                 {
                     "start": 135,
                     "end": 146,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 149,
                     "end": 167,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 436,
                     "end": 447,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 450,
                     "end": 468,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -631,7 +706,8 @@
                 {
                     "start": 2035,
                     "end": 2053,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -643,32 +719,38 @@
                 {
                     "start": 921,
                     "end": 932,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 958,
                     "end": 969,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1226,
                     "end": 1237,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1264,
                     "end": 1275,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1533,
                     "end": 1544,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1571,
                     "end": 1582,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -680,7 +762,8 @@
                 {
                     "start": 838,
                     "end": 843,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etams"
                 }
             ]
         }
@@ -692,7 +775,8 @@
                 {
                     "start": 810,
                     "end": 814,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -704,7 +788,8 @@
                 {
                     "start": 2469,
                     "end": 2473,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -716,12 +801,14 @@
                 {
                     "start": 301,
                     "end": 305,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1943,
                     "end": 1947,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -733,12 +820,14 @@
                 {
                     "start": 1263,
                     "end": 1274,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1275,
                     "end": 1293,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -750,32 +839,38 @@
                 {
                     "start": 180,
                     "end": 191,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 193,
                     "end": 210,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 1049,
                     "end": 1059,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1186,
                     "end": 1197,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1328,
                     "end": 1338,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1888,
                     "end": 1905,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maitrise"
                 }
             ]
         }
@@ -787,12 +882,14 @@
                 {
                     "start": 118,
                     "end": 129,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 133,
                     "end": 151,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -804,7 +901,8 @@
                 {
                     "start": 1293,
                     "end": 1311,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -816,12 +914,14 @@
                 {
                     "start": 633,
                     "end": 644,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 648,
                     "end": 666,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -833,12 +933,14 @@
                 {
                     "start": 1579,
                     "end": 1589,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1591,
                     "end": 1608,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -850,7 +952,8 @@
                 {
                     "start": 953,
                     "end": 971,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -862,22 +965,26 @@
                 {
                     "start": 315,
                     "end": 326,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 330,
                     "end": 348,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1617,
                     "end": 1628,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1632,
                     "end": 1650,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -895,7 +1002,8 @@
                 {
                     "start": 450,
                     "end": 468,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -907,7 +1015,8 @@
                 {
                     "start": 47,
                     "end": 65,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -925,22 +1034,26 @@
                 {
                     "start": 340,
                     "end": 350,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 354,
                     "end": 371,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 2496,
                     "end": 2506,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 2510,
                     "end": 2527,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -952,7 +1065,8 @@
                 {
                     "start": 646,
                     "end": 664,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -970,7 +1084,8 @@
                 {
                     "start": 1269,
                     "end": 1290,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents d’exploitation"
                 }
             ]
         }
@@ -982,47 +1097,56 @@
                 {
                     "start": 751,
                     "end": 762,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 766,
                     "end": 784,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 923,
                     "end": 934,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 938,
                     "end": 956,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1091,
                     "end": 1094,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "ta4"
                 },
                 {
                     "start": 1187,
                     "end": 1198,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1202,
                     "end": 1220,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1304,
                     "end": 1315,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1319,
                     "end": 1337,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1034,7 +1158,8 @@
                 {
                     "start": 759,
                     "end": 762,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "tam"
                 }
             ]
         }
@@ -1046,12 +1171,14 @@
                 {
                     "start": 196,
                     "end": 214,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 218,
                     "end": 229,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1063,12 +1190,14 @@
                 {
                     "start": 343,
                     "end": 354,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 358,
                     "end": 376,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1080,22 +1209,26 @@
                 {
                     "start": 498,
                     "end": 516,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 571,
                     "end": 589,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1542,
                     "end": 1560,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1773,
                     "end": 1791,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1107,12 +1240,14 @@
                 {
                     "start": 356,
                     "end": 374,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1359,
                     "end": 1377,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1124,22 +1259,26 @@
                 {
                     "start": 525,
                     "end": 536,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 540,
                     "end": 558,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1181,
                     "end": 1192,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1196,
                     "end": 1214,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1151,12 +1290,14 @@
                 {
                     "start": 650,
                     "end": 668,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 960,
                     "end": 978,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1168,7 +1309,8 @@
                 {
                     "start": 647,
                     "end": 650,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "tam"
                 }
             ]
         }
@@ -1180,12 +1322,14 @@
                 {
                     "start": 504,
                     "end": 515,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 516,
                     "end": 534,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1197,7 +1341,8 @@
                 {
                     "start": 72,
                     "end": 83,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1209,12 +1354,14 @@
                 {
                     "start": 659,
                     "end": 677,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 767,
                     "end": 785,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1226,22 +1373,26 @@
                 {
                     "start": 83,
                     "end": 93,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 97,
                     "end": 114,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 158,
                     "end": 169,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 173,
                     "end": 191,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1253,12 +1404,14 @@
                 {
                     "start": 116,
                     "end": 127,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 131,
                     "end": 149,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -1276,22 +1429,26 @@
                 {
                     "start": 278,
                     "end": 289,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 291,
                     "end": 309,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 648,
                     "end": 659,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 661,
                     "end": 679,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -1303,7 +1460,8 @@
                 {
                     "start": 474,
                     "end": 485,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1315,32 +1473,38 @@
                 {
                     "start": 85,
                     "end": 96,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 102,
                     "end": 120,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 234,
                     "end": 245,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 325,
                     "end": 336,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 631,
                     "end": 649,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 705,
                     "end": 723,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -1352,17 +1516,20 @@
                 {
                     "start": 271,
                     "end": 275,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 634,
                     "end": 638,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1406,
                     "end": 1410,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1374,37 +1541,44 @@
                 {
                     "start": 1580,
                     "end": 1584,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1626,
                     "end": 1630,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1680,
                     "end": 1684,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1778,
                     "end": 1779,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "/"
                 },
                 {
                     "start": 1780,
                     "end": 1784,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1824,
                     "end": 1828,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1878,
                     "end": 1882,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1416,7 +1590,8 @@
                 {
                     "start": 1590,
                     "end": 1594,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1428,27 +1603,32 @@
                 {
                     "start": 62,
                     "end": 73,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 74,
                     "end": 92,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 94,
                     "end": 98,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 266,
                     "end": 270,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 313,
                     "end": 317,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1466,7 +1646,8 @@
                 {
                     "start": 308,
                     "end": 312,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1484,12 +1665,14 @@
                 {
                     "start": 260,
                     "end": 281,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maintenance"
                 },
                 {
                     "start": 1997,
                     "end": 2018,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maintenance"
                 }
             ]
         }
@@ -1513,12 +1696,14 @@
                 {
                     "start": 1912,
                     "end": 1916,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 2116,
                     "end": 2120,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1530,17 +1715,20 @@
                 {
                     "start": 380,
                     "end": 384,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 491,
                     "end": 495,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1508,
                     "end": 1512,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1552,12 +1740,14 @@
                 {
                     "start": 860,
                     "end": 864,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 938,
                     "end": 942,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1569,12 +1759,14 @@
                 {
                     "start": 2084,
                     "end": 2094,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 2098,
                     "end": 2115,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -1586,32 +1778,38 @@
                 {
                     "start": 297,
                     "end": 307,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 311,
                     "end": 328,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 369,
                     "end": 379,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 383,
                     "end": 400,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 },
                 {
                     "start": 592,
                     "end": 602,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 606,
                     "end": 623,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maîtrise"
                 }
             ]
         }
@@ -1623,7 +1821,8 @@
                 {
                     "start": 2417,
                     "end": 2428,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1635,7 +1834,8 @@
                 {
                     "start": 1903,
                     "end": 1921,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -1647,12 +1847,14 @@
                 {
                     "start": 367,
                     "end": 377,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 378,
                     "end": 390,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicienne"
                 }
             ]
         }
@@ -1664,12 +1866,14 @@
                 {
                     "start": 481,
                     "end": 492,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1014,
                     "end": 1025,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1681,22 +1885,26 @@
                 {
                     "start": 410,
                     "end": 421,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 920,
                     "end": 931,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1247,
                     "end": 1258,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1293,
                     "end": 1304,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -1708,7 +1916,8 @@
                 {
                     "start": 729,
                     "end": 739,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 }
             ]
         }
@@ -1720,7 +1929,8 @@
                 {
                     "start": 1621,
                     "end": 1625,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1732,7 +1942,8 @@
                 {
                     "start": 725,
                     "end": 729,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1744,12 +1955,14 @@
                 {
                     "start": 1761,
                     "end": 1765,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1804,
                     "end": 1808,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1761,12 +1974,14 @@
                 {
                     "start": 78,
                     "end": 82,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 179,
                     "end": 183,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1778,22 +1993,26 @@
                 {
                     "start": 924,
                     "end": 928,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1002,
                     "end": 1006,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1536,
                     "end": 1540,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1614,
                     "end": 1618,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1805,22 +2024,26 @@
                 {
                     "start": 276,
                     "end": 280,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 984,
                     "end": 988,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1404,
                     "end": 1408,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1412,
                     "end": 1416,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1832,17 +2055,20 @@
                 {
                     "start": 598,
                     "end": 602,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1443,
                     "end": 1447,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1451,
                     "end": 1455,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1854,12 +2080,14 @@
                 {
                     "start": 657,
                     "end": 661,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 665,
                     "end": 669,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1877,7 +2105,8 @@
                 {
                     "start": 1322,
                     "end": 1326,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -1889,7 +2118,8 @@
                 {
                     "start": 2521,
                     "end": 2529,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "transmis"
                 }
             ]
         }
@@ -1901,17 +2131,20 @@
                 {
                     "start": 1450,
                     "end": 1455,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etams"
                 },
                 {
                     "start": 1486,
                     "end": 1491,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etams"
                 },
                 {
                     "start": 1522,
                     "end": 1527,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etams"
                 }
             ]
         }
@@ -1923,12 +2156,14 @@
                 {
                     "start": 812,
                     "end": 816,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1159,
                     "end": 1165,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "termes"
                 }
             ]
         }
@@ -1940,67 +2175,80 @@
                 {
                     "start": 196,
                     "end": 206,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 210,
                     "end": 228,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 987,
                     "end": 997,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1001,
                     "end": 1019,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1058,
                     "end": 1069,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1071,
                     "end": 1088,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agent de maitrise"
                 },
                 {
                     "start": 1126,
                     "end": 1137,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 1152,
                     "end": 1162,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1178,
                     "end": 1188,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1718,
                     "end": 1722,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1856,
                     "end": 1860,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1891,
                     "end": 1895,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1937,
                     "end": 1941,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -2012,7 +2260,8 @@
                 {
                     "start": 615,
                     "end": 619,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -2024,12 +2273,14 @@
                 {
                     "start": 488,
                     "end": 492,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 496,
                     "end": 500,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -2041,17 +2292,20 @@
                 {
                     "start": 431,
                     "end": 442,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 443,
                     "end": 461,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 2293,
                     "end": 2298,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "tabac"
                 }
             ]
         }
@@ -2063,22 +2317,26 @@
                 {
                     "start": 1135,
                     "end": 1155,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents logistiques  "
                 },
                 {
                     "start": 1231,
                     "end": 1252,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents logistiques au"
                 },
                 {
                     "start": 1335,
                     "end": 1359,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents logistiques ayant"
                 },
                 {
                     "start": 1876,
                     "end": 1903,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents logistiques occupant"
                 }
             ]
         }
@@ -2096,7 +2354,8 @@
                 {
                     "start": 503,
                     "end": 521,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2108,7 +2367,8 @@
                 {
                     "start": 2369,
                     "end": 2380,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 }
             ]
         }
@@ -2120,7 +2380,8 @@
                 {
                     "start": 184,
                     "end": 202,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2132,22 +2393,26 @@
                 {
                     "start": 1050,
                     "end": 1068,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1126,
                     "end": 1144,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1185,
                     "end": 1203,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 1584,
                     "end": 1602,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2165,7 +2430,8 @@
                 {
                     "start": 1408,
                     "end": 1426,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2183,12 +2449,14 @@
                 {
                     "start": 484,
                     "end": 502,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 692,
                     "end": 710,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2200,27 +2468,32 @@
                 {
                     "start": 416,
                     "end": 434,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 538,
                     "end": 556,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1522,
                     "end": 1532,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1825,
                     "end": 1835,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "technicien"
                 },
                 {
                     "start": 1880,
                     "end": 1884,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "tmse"
                 }
             ]
         }
@@ -2232,7 +2505,8 @@
                 {
                     "start": 957,
                     "end": 975,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2244,7 +2518,8 @@
                 {
                     "start": 83,
                     "end": 87,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -2256,17 +2531,20 @@
                 {
                     "start": 108,
                     "end": 112,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 171,
                     "end": 175,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 },
                 {
                     "start": 1774,
                     "end": 1778,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "etam"
                 }
             ]
         }
@@ -2278,32 +2556,38 @@
                 {
                     "start": 1126,
                     "end": 1144,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 1393,
                     "end": 1411,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 1806,
                     "end": 1824,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1852,
                     "end": 1870,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 2100,
                     "end": 2118,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 },
                 {
                     "start": 2284,
                     "end": 2302,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -2315,7 +2599,8 @@
                 {
                     "start": 589,
                     "end": 607,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2327,17 +2612,20 @@
                 {
                     "start": 432,
                     "end": 450,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 501,
                     "end": 519,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 647,
                     "end": 665,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2349,17 +2637,20 @@
                 {
                     "start": 474,
                     "end": 492,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 543,
                     "end": 561,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 689,
                     "end": 707,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }
@@ -2371,17 +2662,20 @@
                 {
                     "start": 1171,
                     "end": 1189,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1272,
                     "end": 1290,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 },
                 {
                     "start": 1475,
                     "end": 1493,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maitrise"
                 }
             ]
         }
@@ -2393,17 +2687,20 @@
                 {
                     "start": 448,
                     "end": 459,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "techniciens"
                 },
                 {
                     "start": 460,
                     "end": 479,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "/agents de maitrise"
                 },
                 {
                     "start": 897,
                     "end": 913,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "assimilés cadres"
                 }
             ]
         }
@@ -2415,7 +2712,8 @@
                 {
                     "start": 839,
                     "end": 857,
-                    "labels": "INT"
+                    "labels": "INT",
+                    "text_span": "agents de maîtrise"
                 }
             ]
         }

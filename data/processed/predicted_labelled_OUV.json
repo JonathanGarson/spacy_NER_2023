@@ -6,12 +6,14 @@
                 {
                     "start": 794,
                     "end": 802,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 804,
                     "end": 812,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -23,7 +25,8 @@
                 {
                     "start": 1021,
                     "end": 1042,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel de conduite"
                 }
             ]
         }
@@ -35,22 +38,26 @@
                 {
                     "start": 123,
                     "end": 148,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel ouvrier roulant"
                 },
                 {
                     "start": 236,
                     "end": 261,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel ouvrier roulant"
                 },
                 {
                     "start": 593,
                     "end": 621,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel ouvrier sédentaire"
                 },
                 {
                     "start": 625,
                     "end": 633,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -68,12 +75,14 @@
                 {
                     "start": 1241,
                     "end": 1249,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1353,
                     "end": 1367,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "statut employé"
                 }
             ]
         }
@@ -85,12 +94,14 @@
                 {
                     "start": 57,
                     "end": 76,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "postes d’opérateurs"
                 },
                 {
                     "start": 1366,
                     "end": 1385,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "postes d’opérateurs"
                 }
             ]
         }
@@ -102,7 +113,8 @@
                 {
                     "start": 81,
                     "end": 89,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -114,12 +126,14 @@
                 {
                     "start": 792,
                     "end": 800,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1121,
                     "end": 1129,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -131,7 +145,8 @@
                 {
                     "start": 73,
                     "end": 81,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -143,7 +158,8 @@
                 {
                     "start": 965,
                     "end": 973,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -155,17 +171,20 @@
                 {
                     "start": 110,
                     "end": 118,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 121,
                     "end": 129,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 556,
                     "end": 564,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -177,7 +196,8 @@
                 {
                     "start": 199,
                     "end": 207,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -195,12 +215,14 @@
                 {
                     "start": 446,
                     "end": 454,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 458,
                     "end": 466,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -212,17 +234,20 @@
                 {
                     "start": 616,
                     "end": 624,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 841,
                     "end": 849,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1128,
                     "end": 1136,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -234,22 +259,26 @@
                 {
                     "start": 651,
                     "end": 659,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 661,
                     "end": 669,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1697,
                     "end": 1705,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1707,
                     "end": 1715,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -261,12 +290,14 @@
                 {
                     "start": 1873,
                     "end": 1881,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1883,
                     "end": 1891,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -278,7 +309,8 @@
                 {
                     "start": 1107,
                     "end": 1115,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -290,7 +322,8 @@
                 {
                     "start": 59,
                     "end": 67,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -302,12 +335,14 @@
                 {
                     "start": 762,
                     "end": 770,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 773,
                     "end": 781,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -319,12 +354,14 @@
                 {
                     "start": 1933,
                     "end": 1941,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1943,
                     "end": 1951,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -342,17 +379,20 @@
                 {
                     "start": 1090,
                     "end": 1098,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1151,
                     "end": 1159,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1160,
                     "end": 1168,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -364,12 +404,14 @@
                 {
                     "start": 479,
                     "end": 487,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 489,
                     "end": 497,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -381,7 +423,8 @@
                 {
                     "start": 59,
                     "end": 66,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 }
             ]
         }
@@ -393,22 +436,26 @@
                 {
                     "start": 192,
                     "end": 200,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 202,
                     "end": 210,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 924,
                     "end": 932,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 934,
                     "end": 942,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -420,42 +467,50 @@
                 {
                     "start": 1061,
                     "end": 1069,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1071,
                     "end": 1079,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1153,
                     "end": 1161,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1284,
                     "end": 1292,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1415,
                     "end": 1423,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1544,
                     "end": 1552,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1676,
                     "end": 1684,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1807,
                     "end": 1815,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -467,7 +522,8 @@
                 {
                     "start": 911,
                     "end": 919,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -485,12 +541,14 @@
                 {
                     "start": 297,
                     "end": 305,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 307,
                     "end": 315,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -502,12 +560,14 @@
                 {
                     "start": 77,
                     "end": 85,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1535,
                     "end": 1543,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -519,12 +579,14 @@
                 {
                     "start": 71,
                     "end": 79,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 172,
                     "end": 180,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -536,22 +598,26 @@
                 {
                     "start": 827,
                     "end": 835,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 839,
                     "end": 847,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1613,
                     "end": 1620,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 1624,
                     "end": 1631,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 }
             ]
         }
@@ -569,7 +635,8 @@
                 {
                     "start": 1079,
                     "end": 1087,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -581,22 +648,26 @@
                 {
                     "start": 1430,
                     "end": 1438,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1440,
                     "end": 1448,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1490,
                     "end": 1498,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1500,
                     "end": 1508,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -608,22 +679,26 @@
                 {
                     "start": 96,
                     "end": 104,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 105,
                     "end": 113,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 376,
                     "end": 384,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 385,
                     "end": 393,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -647,7 +722,8 @@
                 {
                     "start": 2481,
                     "end": 2489,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -659,12 +735,14 @@
                 {
                     "start": 309,
                     "end": 317,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1515,
                     "end": 1523,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -682,7 +760,8 @@
                 {
                     "start": 871,
                     "end": 888,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés/ouvriers"
                 }
             ]
         }
@@ -694,27 +773,32 @@
                 {
                     "start": 160,
                     "end": 168,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 170,
                     "end": 178,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 316,
                     "end": 318,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "oe"
                 },
                 {
                     "start": 445,
                     "end": 462,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers/employés"
                 },
                 {
                     "start": 464,
                     "end": 466,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "oe"
                 }
             ]
         }
@@ -726,12 +810,14 @@
                 {
                     "start": 704,
                     "end": 712,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 716,
                     "end": 724,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -743,12 +829,14 @@
                 {
                     "start": 613,
                     "end": 621,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 623,
                     "end": 631,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -766,7 +854,8 @@
                 {
                     "start": 513,
                     "end": 521,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -778,7 +867,8 @@
                 {
                     "start": 1602,
                     "end": 1610,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -790,12 +880,14 @@
                 {
                     "start": 428,
                     "end": 436,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 438,
                     "end": 446,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -807,7 +899,8 @@
                 {
                     "start": 37,
                     "end": 45,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -825,17 +918,20 @@
                 {
                     "start": 364,
                     "end": 377,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés. une"
                 },
                 {
                     "start": 497,
                     "end": 505,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 637,
                     "end": 645,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -847,17 +943,20 @@
                 {
                     "start": 322,
                     "end": 329,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 331,
                     "end": 338,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 },
                 {
                     "start": 2322,
                     "end": 2329,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 }
             ]
         }
@@ -869,7 +968,8 @@
                 {
                     "start": 182,
                     "end": 199,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers/employés"
                 }
             ]
         }
@@ -881,7 +981,8 @@
                 {
                     "start": 1066,
                     "end": 1073,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 }
             ]
         }
@@ -917,52 +1018,62 @@
                 {
                     "start": 731,
                     "end": 739,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 741,
                     "end": 749,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 903,
                     "end": 911,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 913,
                     "end": 921,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 995,
                     "end": 998,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "oe3"
                 },
                 {
                     "start": 1007,
                     "end": 1010,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "oe4"
                 },
                 {
                     "start": 1167,
                     "end": 1175,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1177,
                     "end": 1185,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1284,
                     "end": 1292,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1294,
                     "end": 1302,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -974,12 +1085,14 @@
                 {
                     "start": 78,
                     "end": 86,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 88,
                     "end": 96,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -991,7 +1104,8 @@
                 {
                     "start": 644,
                     "end": 667,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "statut ouvrier/ employé"
                 }
             ]
         }
@@ -1003,22 +1117,26 @@
                 {
                     "start": 162,
                     "end": 170,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 174,
                     "end": 182,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 501,
                     "end": 509,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 513,
                     "end": 521,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1030,12 +1148,14 @@
                 {
                     "start": 221,
                     "end": 229,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 233,
                     "end": 241,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1047,32 +1167,38 @@
                 {
                     "start": 475,
                     "end": 483,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 486,
                     "end": 494,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1521,
                     "end": 1529,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1530,
                     "end": 1538,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1752,
                     "end": 1760,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1761,
                     "end": 1769,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1084,17 +1210,20 @@
                 {
                     "start": 334,
                     "end": 342,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 344,
                     "end": 352,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1347,
                     "end": 1355,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1106,22 +1235,26 @@
                 {
                     "start": 628,
                     "end": 636,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 638,
                     "end": 646,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 940,
                     "end": 948,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 950,
                     "end": 958,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1133,7 +1266,8 @@
                 {
                     "start": 533,
                     "end": 556,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "statut ouvrier/ employé"
                 }
             ]
         }
@@ -1145,7 +1279,8 @@
                 {
                     "start": 432,
                     "end": 440,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1157,12 +1292,14 @@
                 {
                     "start": 52,
                     "end": 60,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 62,
                     "end": 70,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1174,12 +1311,14 @@
                 {
                     "start": 337,
                     "end": 356,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés / ouvriers"
                 },
                 {
                     "start": 637,
                     "end": 656,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés / ouvriers"
                 }
             ]
         }
@@ -1191,22 +1330,26 @@
                 {
                     "start": 65,
                     "end": 72,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 74,
                     "end": 81,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 },
                 {
                     "start": 138,
                     "end": 146,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 148,
                     "end": 156,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1218,7 +1361,8 @@
                 {
                     "start": 626,
                     "end": 634,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1236,12 +1380,14 @@
                 {
                     "start": 96,
                     "end": 104,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 106,
                     "end": 114,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employes"
                 }
             ]
         }
@@ -1253,12 +1399,14 @@
                 {
                     "start": 1056,
                     "end": 1063,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 1065,
                     "end": 1072,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 }
             ]
         }
@@ -1270,22 +1418,26 @@
                 {
                     "start": 175,
                     "end": 182,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 184,
                     "end": 191,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 },
                 {
                     "start": 304,
                     "end": 322,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel ouvrier,"
                 },
                 {
                     "start": 323,
                     "end": 330,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 }
             ]
         }
@@ -1303,22 +1455,26 @@
                 {
                     "start": 268,
                     "end": 276,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 313,
                     "end": 321,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 628,
                     "end": 636,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 638,
                     "end": 646,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1330,7 +1486,8 @@
                 {
                     "start": 464,
                     "end": 472,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1342,17 +1499,20 @@
                 {
                     "start": 51,
                     "end": 59,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 198,
                     "end": 206,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 301,
                     "end": 309,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1376,7 +1536,8 @@
                 {
                     "start": 1570,
                     "end": 1578,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1388,12 +1549,14 @@
                 {
                     "start": 28,
                     "end": 36,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 53,
                     "end": 61,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1405,12 +1568,14 @@
                 {
                     "start": 1127,
                     "end": 1135,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1747,
                     "end": 1755,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1422,17 +1587,20 @@
                 {
                     "start": 296,
                     "end": 304,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1210,
                     "end": 1218,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1254,
                     "end": 1262,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1444,17 +1612,20 @@
                 {
                     "start": 1644,
                     "end": 1658,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "members / team"
                 },
                 {
                     "start": 1925,
                     "end": 1939,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "members / team"
                 },
                 {
                     "start": 2029,
                     "end": 2043,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "members / team"
                 }
             ]
         }
@@ -1466,7 +1637,8 @@
                 {
                     "start": 863,
                     "end": 871,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1496,12 +1668,14 @@
                 {
                     "start": 1361,
                     "end": 1368,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 1568,
                     "end": 1576,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1513,12 +1687,14 @@
                 {
                     "start": 93,
                     "end": 100,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 297,
                     "end": 305,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1530,12 +1706,14 @@
                 {
                     "start": 1576,
                     "end": 1584,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1588,
                     "end": 1604,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés de tous"
                 }
             ]
         }
@@ -1547,7 +1725,8 @@
                 {
                     "start": 1641,
                     "end": 1643,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "oq"
                 }
             ]
         }
@@ -1565,7 +1744,8 @@
                 {
                     "start": 2376,
                     "end": 2384,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1583,12 +1763,14 @@
                 {
                     "start": 1579,
                     "end": 1586,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 1590,
                     "end": 1597,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 }
             ]
         }
@@ -1600,12 +1782,14 @@
                 {
                     "start": 94,
                     "end": 101,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 105,
                     "end": 112,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé"
                 }
             ]
         }
@@ -1617,12 +1801,14 @@
                 {
                     "start": 1649,
                     "end": 1657,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1661,
                     "end": 1677,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés de tous"
                 }
             ]
         }
@@ -1634,7 +1820,8 @@
                 {
                     "start": 590,
                     "end": 597,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 }
             ]
         }
@@ -1646,12 +1833,14 @@
                 {
                     "start": 1843,
                     "end": 1851,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1859,
                     "end": 1872,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés de 3"
                 }
             ]
         }
@@ -1663,12 +1852,14 @@
                 {
                     "start": 1030,
                     "end": 1037,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 },
                 {
                     "start": 1064,
                     "end": 1084,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "personnel ouvrier de"
                 }
             ]
         }
@@ -1686,7 +1877,8 @@
                 {
                     "start": 1838,
                     "end": 1846,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1710,17 +1902,20 @@
                 {
                     "start": 102,
                     "end": 110,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1449,
                     "end": 1465,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé.        "
                 },
                 {
                     "start": 2656,
                     "end": 2665,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employé. "
                 }
             ]
         }
@@ -1738,7 +1933,8 @@
                 {
                     "start": 1592,
                     "end": 1600,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1750,7 +1946,8 @@
                 {
                     "start": 1758,
                     "end": 1765,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvrier"
                 }
             ]
         }
@@ -1774,7 +1971,8 @@
                 {
                     "start": 1969,
                     "end": 1986,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ventes / recettes"
                 }
             ]
         }
@@ -1786,12 +1984,14 @@
                 {
                     "start": 1442,
                     "end": 1450,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1454,
                     "end": 1462,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -1821,7 +2021,8 @@
                 {
                     "start": 1755,
                     "end": 1763,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "original"
                 }
             ]
         }
@@ -1833,7 +2034,8 @@
                 {
                     "start": 523,
                     "end": 531,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1851,12 +2053,14 @@
                 {
                     "start": 908,
                     "end": 916,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1520,
                     "end": 1528,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1868,12 +2072,14 @@
                 {
                     "start": 264,
                     "end": 272,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 992,
                     "end": 1000,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1885,7 +2091,8 @@
                 {
                     "start": 586,
                     "end": 594,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1909,7 +2116,8 @@
                 {
                     "start": 1310,
                     "end": 1318,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1921,17 +2129,20 @@
                 {
                     "start": 1570,
                     "end": 1578,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1609,
                     "end": 1617,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1648,
                     "end": 1656,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -1943,7 +2154,8 @@
                 {
                     "start": 371,
                     "end": 385,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "statut ouvrier"
                 }
             ]
         }
@@ -1967,27 +2179,32 @@
                 {
                     "start": 146,
                     "end": 154,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 814,
                     "end": 822,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1705,
                     "end": 1713,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1945,
                     "end": 1953,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 1994,
                     "end": 2012,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "etat des apprentis"
                 }
             ]
         }
@@ -1999,12 +2216,14 @@
                 {
                     "start": 477,
                     "end": 482,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouest"
                 },
                 {
                     "start": 642,
                     "end": 647,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouest"
                 }
             ]
         }
@@ -2022,7 +2241,8 @@
                 {
                     "start": 410,
                     "end": 427,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers/employés"
                 }
             ]
         }
@@ -2040,7 +2260,8 @@
                 {
                     "start": 272,
                     "end": 280,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2058,17 +2279,20 @@
                 {
                     "start": 161,
                     "end": 169,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 213,
                     "end": 221,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 519,
                     "end": 527,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2086,12 +2310,14 @@
                 {
                     "start": 187,
                     "end": 195,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 1037,
                     "end": 1045,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2115,17 +2341,20 @@
                 {
                     "start": 406,
                     "end": 414,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 },
                 {
                     "start": 518,
                     "end": 526,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 528,
                     "end": 536,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -2143,7 +2372,8 @@
                 {
                     "start": 71,
                     "end": 79,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "ouvriers"
                 }
             ]
         }
@@ -2155,12 +2385,14 @@
                 {
                     "start": 1840,
                     "end": 1848,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 },
                 {
                     "start": 2272,
                     "end": 2280,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2172,7 +2404,8 @@
                 {
                     "start": 56,
                     "end": 64,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2184,7 +2417,8 @@
                 {
                     "start": 98,
                     "end": 106,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2196,7 +2430,8 @@
                 {
                     "start": 395,
                     "end": 403,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }
@@ -2208,7 +2443,8 @@
                 {
                     "start": 124,
                     "end": 132,
-                    "labels": "OUV"
+                    "labels": "OUV",
+                    "text_span": "employés"
                 }
             ]
         }

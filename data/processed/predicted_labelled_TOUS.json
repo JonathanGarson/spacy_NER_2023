@@ -6,7 +6,8 @@
                 {
                     "start": 161,
                     "end": 179,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "des collaborateurs"
                 }
             ]
         }
@@ -18,7 +19,8 @@
                 {
                     "start": 1119,
                     "end": 1142,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -30,7 +32,8 @@
                 {
                     "start": 716,
                     "end": 739,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -42,7 +45,8 @@
                 {
                     "start": 77,
                     "end": 121,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés présents dans l’entreprise"
                 }
             ]
         }
@@ -54,7 +58,8 @@
                 {
                     "start": 1739,
                     "end": 1756,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -66,7 +71,8 @@
                 {
                     "start": 1302,
                     "end": 1319,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -78,7 +84,8 @@
                 {
                     "start": 690,
                     "end": 713,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -90,7 +97,8 @@
                 {
                     "start": 61,
                     "end": 101,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "ensemble du personnel cadre et non cadre"
                 }
             ]
         }
@@ -102,7 +110,8 @@
                 {
                     "start": 2321,
                     "end": 2338,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -114,17 +123,20 @@
                 {
                     "start": 778,
                     "end": 801,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 893,
                     "end": 904,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "1 500 euros"
                 },
                 {
                     "start": 921,
                     "end": 933,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "les salariés"
                 }
             ]
         }
@@ -136,7 +148,8 @@
                 {
                     "start": 536,
                     "end": 564,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "personnel cadre et non cadre"
                 }
             ]
         }
@@ -154,7 +167,8 @@
                 {
                     "start": 1287,
                     "end": 1310,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -172,7 +186,8 @@
                 {
                     "start": 1412,
                     "end": 1435,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -184,7 +199,8 @@
                 {
                     "start": 1020,
                     "end": 1037,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -196,7 +212,8 @@
                 {
                     "start": 1223,
                     "end": 1246,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -220,7 +237,8 @@
                 {
                     "start": 840,
                     "end": 863,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -232,7 +250,8 @@
                 {
                     "start": 1878,
                     "end": 1895,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -244,7 +263,8 @@
                 {
                     "start": 1583,
                     "end": 1610,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble de son personnel"
                 }
             ]
         }
@@ -256,7 +276,8 @@
                 {
                     "start": 1055,
                     "end": 1069,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "; les salariés"
                 }
             ]
         }
@@ -268,12 +289,14 @@
                 {
                     "start": 703,
                     "end": 726,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 2037,
                     "end": 2065,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "personnel cadre et non cadre"
                 }
             ]
         }
@@ -285,7 +308,8 @@
                 {
                     "start": 1908,
                     "end": 1931,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -297,7 +321,8 @@
                 {
                     "start": 405,
                     "end": 422,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -309,7 +334,8 @@
                 {
                     "start": 881,
                     "end": 904,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -321,7 +347,8 @@
                 {
                     "start": 1414,
                     "end": 1431,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -333,7 +360,8 @@
                 {
                     "start": 701,
                     "end": 724,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -345,7 +373,8 @@
                 {
                     "start": 186,
                     "end": 207,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "ensemble des salaires"
                 }
             ]
         }
@@ -357,7 +386,8 @@
                 {
                     "start": 1493,
                     "end": 1522,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -375,7 +405,8 @@
                 {
                     "start": 112,
                     "end": 135,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -393,7 +424,8 @@
                 {
                     "start": 1635,
                     "end": 1658,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -405,7 +437,8 @@
                 {
                     "start": 1380,
                     "end": 1397,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -417,12 +450,14 @@
                 {
                     "start": 132,
                     "end": 154,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "pour tous les salariés"
                 },
                 {
                     "start": 2389,
                     "end": 2412,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -434,7 +469,8 @@
                 {
                     "start": 1139,
                     "end": 1162,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -446,12 +482,14 @@
                 {
                     "start": 823,
                     "end": 840,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 },
                 {
                     "start": 1023,
                     "end": 1040,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -469,7 +507,8 @@
                 {
                     "start": 2466,
                     "end": 2489,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -481,12 +520,14 @@
                 {
                     "start": 201,
                     "end": 224,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 280,
                     "end": 297,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -498,7 +539,8 @@
                 {
                     "start": 1393,
                     "end": 1416,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -510,12 +552,14 @@
                 {
                     "start": 1981,
                     "end": 1998,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 },
                 {
                     "start": 2450,
                     "end": 2467,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -527,7 +571,8 @@
                 {
                     "start": 762,
                     "end": 800,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés non-cadres et cadres"
                 }
             ]
         }
@@ -539,7 +584,8 @@
                 {
                     "start": 2075,
                     "end": 2092,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -551,7 +597,8 @@
                 {
                     "start": 199,
                     "end": 222,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -563,7 +610,8 @@
                 {
                     "start": 83,
                     "end": 106,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -575,7 +623,8 @@
                 {
                     "start": 1469,
                     "end": 1492,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -587,27 +636,32 @@
                 {
                     "start": 555,
                     "end": 578,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 924,
                     "end": 947,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 1562,
                     "end": 1585,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 2218,
                     "end": 2241,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 2632,
                     "end": 2655,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -625,7 +679,8 @@
                 {
                     "start": 204,
                     "end": 227,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -637,7 +692,8 @@
                 {
                     "start": 894,
                     "end": 927,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "augmentation moyenne individuelle"
                 }
             ]
         }
@@ -649,12 +705,14 @@
                 {
                     "start": 232,
                     "end": 258,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés présents"
                 },
                 {
                     "start": 693,
                     "end": 721,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés présents à"
                 }
             ]
         }
@@ -666,12 +724,14 @@
                 {
                     "start": 384,
                     "end": 403,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "population courante"
                 },
                 {
                     "start": 416,
                     "end": 445,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des collaborateurs"
                 }
             ]
         }
@@ -683,7 +743,8 @@
                 {
                     "start": 405,
                     "end": 422,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -695,7 +756,8 @@
                 {
                     "start": 455,
                     "end": 472,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collèges"
                 }
             ]
         }
@@ -713,7 +775,8 @@
                 {
                     "start": 257,
                     "end": 280,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -725,7 +788,8 @@
                 {
                     "start": 461,
                     "end": 484,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des sociétés"
                 }
             ]
         }
@@ -737,27 +801,32 @@
                 {
                     "start": 123,
                     "end": 146,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 },
                 {
                     "start": 562,
                     "end": 579,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tout le personnel"
                 },
                 {
                     "start": 1310,
                     "end": 1327,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tout le personnel"
                 },
                 {
                     "start": 2005,
                     "end": 2022,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tout le personnel"
                 },
                 {
                     "start": 2621,
                     "end": 2638,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tout le personnel"
                 }
             ]
         }
@@ -769,12 +838,14 @@
                 {
                     "start": 401,
                     "end": 424,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 1752,
                     "end": 1775,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -786,7 +857,8 @@
                 {
                     "start": 1493,
                     "end": 1522,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -798,12 +870,14 @@
                 {
                     "start": 141,
                     "end": 164,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 697,
                     "end": 726,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -815,7 +889,8 @@
                 {
                     "start": 532,
                     "end": 561,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -827,7 +902,8 @@
                 {
                     "start": 655,
                     "end": 678,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -839,7 +915,8 @@
                 {
                     "start": 252,
                     "end": 281,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -851,7 +928,8 @@
                 {
                     "start": 782,
                     "end": 805,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -863,7 +941,8 @@
                 {
                     "start": 389,
                     "end": 412,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -875,7 +954,8 @@
                 {
                     "start": 819,
                     "end": 847,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "chaque salarié à temps plein"
                 }
             ]
         }
@@ -887,7 +967,8 @@
                 {
                     "start": 1722,
                     "end": 1745,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -899,7 +980,8 @@
                 {
                     "start": 136,
                     "end": 160,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "la totalité du personnel"
                 }
             ]
         }
@@ -911,7 +993,8 @@
                 {
                     "start": 94,
                     "end": 117,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -929,7 +1012,8 @@
                 {
                     "start": 98,
                     "end": 121,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -941,7 +1025,8 @@
                 {
                     "start": 163,
                     "end": 186,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -953,12 +1038,14 @@
                 {
                     "start": 67,
                     "end": 90,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 450,
                     "end": 479,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -976,22 +1063,26 @@
                 {
                     "start": 573,
                     "end": 596,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 1151,
                     "end": 1174,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 1350,
                     "end": 1356,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous ;"
                 },
                 {
                     "start": 2369,
                     "end": 2392,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1003,7 +1094,8 @@
                 {
                     "start": 116,
                     "end": 139,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1015,7 +1107,8 @@
                 {
                     "start": 227,
                     "end": 250,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1027,7 +1120,8 @@
                 {
                     "start": 205,
                     "end": 239,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "toutes les catégories de personnel"
                 }
             ]
         }
@@ -1039,7 +1133,8 @@
                 {
                     "start": 360,
                     "end": 383,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -1051,7 +1146,8 @@
                 {
                     "start": 83,
                     "end": 106,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1069,12 +1165,14 @@
                 {
                     "start": 1417,
                     "end": 1440,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 1998,
                     "end": 2021,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1086,7 +1184,8 @@
                 {
                     "start": 1777,
                     "end": 1802,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des personnels"
                 }
             ]
         }
@@ -1098,7 +1197,8 @@
                 {
                     "start": 749,
                     "end": 772,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 }
             ]
         }
@@ -1122,12 +1222,14 @@
                 {
                     "start": 1440,
                     "end": 1463,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 },
                 {
                     "start": 1720,
                     "end": 1743,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1139,7 +1241,8 @@
                 {
                     "start": 981,
                     "end": 998,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -1151,7 +1254,8 @@
                 {
                     "start": 1552,
                     "end": 1575,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1163,7 +1267,8 @@
                 {
                     "start": 621,
                     "end": 644,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1175,7 +1280,8 @@
                 {
                     "start": 589,
                     "end": 612,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1187,7 +1293,8 @@
                 {
                     "start": 2186,
                     "end": 2195,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "pour tous"
                 }
             ]
         }
@@ -1199,7 +1306,8 @@
                 {
                     "start": 1721,
                     "end": 1744,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1211,12 +1319,14 @@
                 {
                     "start": 594,
                     "end": 617,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 },
                 {
                     "start": 1090,
                     "end": 1107,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -1228,7 +1338,8 @@
                 {
                     "start": 1205,
                     "end": 1228,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1240,7 +1351,8 @@
                 {
                     "start": 1618,
                     "end": 1635,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -1252,7 +1364,8 @@
                 {
                     "start": 782,
                     "end": 821,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés de l'entreprise"
                 }
             ]
         }
@@ -1264,7 +1377,8 @@
                 {
                     "start": 2016,
                     "end": 2039,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1276,7 +1390,8 @@
                 {
                     "start": 776,
                     "end": 799,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1288,7 +1403,8 @@
                 {
                     "start": 1395,
                     "end": 1418,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1324,7 +1440,8 @@
                 {
                     "start": 1309,
                     "end": 1332,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1336,7 +1453,8 @@
                 {
                     "start": 1687,
                     "end": 1710,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1348,7 +1466,8 @@
                 {
                     "start": 824,
                     "end": 847,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1360,7 +1479,8 @@
                 {
                     "start": 2395,
                     "end": 2418,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1372,12 +1492,14 @@
                 {
                     "start": 634,
                     "end": 651,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tout le personnel"
                 },
                 {
                     "start": 1126,
                     "end": 1150,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "toutes les catégories de"
                 }
             ]
         }
@@ -1395,12 +1517,14 @@
                 {
                     "start": 717,
                     "end": 740,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble des salariés"
                 },
                 {
                     "start": 934,
                     "end": 961,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des coefficients"
                 }
             ]
         }
@@ -1412,7 +1536,8 @@
                 {
                     "start": 240,
                     "end": 257,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -1424,7 +1549,8 @@
                 {
                     "start": 1878,
                     "end": 1901,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l'ensemble du personnel"
                 }
             ]
         }
@@ -1442,7 +1568,8 @@
                 {
                     "start": 699,
                     "end": 733,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "toutes les catégories de personnel"
                 }
             ]
         }
@@ -1454,7 +1581,8 @@
                 {
                     "start": 1051,
                     "end": 1074,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1472,12 +1600,14 @@
                 {
                     "start": 367,
                     "end": 390,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 },
                 {
                     "start": 658,
                     "end": 681,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1489,7 +1619,8 @@
                 {
                     "start": 157,
                     "end": 180,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble du personnel"
                 }
             ]
         }
@@ -1519,7 +1650,8 @@
                 {
                     "start": 507,
                     "end": 536,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -1531,7 +1663,8 @@
                 {
                     "start": 877,
                     "end": 900,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1543,7 +1676,8 @@
                 {
                     "start": 212,
                     "end": 246,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "toutes les catégories de personnel"
                 }
             ]
         }
@@ -1555,7 +1689,8 @@
                 {
                     "start": 620,
                     "end": 643,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salaires"
                 }
             ]
         }
@@ -1567,7 +1702,8 @@
                 {
                     "start": 500,
                     "end": 517,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés"
                 }
             ]
         }
@@ -1579,7 +1715,8 @@
                 {
                     "start": 998,
                     "end": 1021,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les collaborateurs"
                 }
             ]
         }
@@ -1591,7 +1728,8 @@
                 {
                     "start": 258,
                     "end": 287,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des collaborateurs"
                 }
             ]
         }
@@ -1603,7 +1741,8 @@
                 {
                     "start": 360,
                     "end": 383,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des salariés"
                 }
             ]
         }
@@ -1615,12 +1754,14 @@
                 {
                     "start": 704,
                     "end": 726,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "l’ensemble des statuts"
                 },
                 {
                     "start": 2562,
                     "end": 2595,
-                    "labels": "TOUS"
+                    "labels": "TOUS",
+                    "text_span": "tous les salariés de l'entreprise"
                 }
             ]
         }
