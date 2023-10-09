@@ -1,0 +1,3 @@
+Mean difference AG INT: 0.08013333333333333
+Mean true AG INT: 3.3658666666666672
+Mean pred AG INT: 3.386
