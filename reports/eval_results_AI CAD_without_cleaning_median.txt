@@ -1,0 +1,20 @@
+=====================================
+Results for AI CAD
+=====================================
+
+Mean difference AI CAD: 0.12262626262626264
+Mean true AI CAD: 2.8405454545454543
+Mean pred AI CAD: 2.971111111111111
+
+Variance difference AI CAD: 0.2550522160379304
+Variance true AI CAD: 1.452383185988324
+Variance pred AI CAD: 1.3833487528344668
+
+Median difference AI CAD: 0.0
+Median true AI CAD: 3.0
+Median pred AI CAD: 3.0
+
+Comparison with and without cleaning
+Full cells pred AI CAD: 99
+Full cells true AI CAD: 110
+Empty cells AI CAD: 11

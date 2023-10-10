@@ -1,0 +1,9 @@
+label,mean_diff,mean_diff_no_cleaning,mean_diff_no_cleaning_median,mean_diff_no_cleaning_random
+AG,0.152,0.152,0.153,0.151
+AG CAD,0.639,0.639,0.639,0.639
+AG INT,0.08,0.08,0.093,0.08
+AG OUV,0.187,0.187,0.174,0.187
+AI,0.259,0.259,0.259,0.259
+AI CAD,0.123,0.123,0.123,0.123
+ATOT,0.078,0.078,0.078,0.078
+PPVm,75.121,75.121,83.397,75.121

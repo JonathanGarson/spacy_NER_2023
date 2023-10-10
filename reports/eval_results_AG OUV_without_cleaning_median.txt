@@ -1,0 +1,20 @@
+=====================================
+Results for AG OUV
+=====================================
+
+Mean difference AG OUV: 0.17372093023255816
+Mean true AG OUV: 4.189577464788732
+Mean pred AG OUV: 3.144186046511628
+
+Variance difference AG OUV: 0.24826677740863795
+Variance true AG OUV: 40.62689839034205
+Variance pred AG OUV: 2.583948726467331
+
+Median difference AG OUV: 0.0
+Median true AG OUV: 3.0
+Median pred AG OUV: 2.7
+
+Comparison with and without cleaning
+Full cells pred AG OUV: 43
+Full cells true AG OUV: 71
+Empty cells AG OUV: 28

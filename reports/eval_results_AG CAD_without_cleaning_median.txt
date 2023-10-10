@@ -1,0 +1,20 @@
+=====================================
+Results for AG CAD
+=====================================
+
+Mean difference AG CAD: 0.6385000000000001
+Mean true AG CAD: 2.853623188405797
+Mean pred AG CAD: 2.3726666666666665
+
+Variance difference AG CAD: 0.6092265254237289
+Variance true AG CAD: 28.276844032395566
+Variance pred AG CAD: 0.697914802259887
+
+Median difference AG CAD: 0.525
+Median true AG CAD: 2.1
+Median pred AG CAD: 2.0
+
+Comparison with and without cleaning
+Full cells pred AG CAD: 60
+Full cells true AG CAD: 69
+Empty cells AG CAD: 9

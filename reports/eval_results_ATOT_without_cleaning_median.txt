@@ -1,0 +1,20 @@
+=====================================
+Results for ATOT
+=====================================
+
+Mean difference ATOT: 0.07753086419753086
+Mean true ATOT: 3.8732954545454548
+Mean pred ATOT: 3.8656790123456783
+
+Variance difference ATOT: 0.08949132716049382
+Variance true ATOT: 1.026978670323929
+Variance pred ATOT: 0.9129073456790124
+
+Median difference ATOT: 0.0
+Median true ATOT: 4.0
+Median pred ATOT: 4.0
+
+Comparison with and without cleaning
+Full cells pred ATOT: 81
+Full cells true ATOT: 88
+Empty cells ATOT: 7

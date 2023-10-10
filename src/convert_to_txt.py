@@ -4,61 +4,59 @@ The procedure is faster than in 'convert_to_txt', count 15s for 206 files (0.07s
 """
 
 import os 
-import shutil
 import glob
 from tqdm import tqdm
 from docx import Document
 
-ROOT_PATH = r"C:\Users\garsonj\Desktop\spacy_finetuning\spacy_files"
+def correct_docx_file_path(file_path):
+    """
+    Correct the file path if it ends with .docx.docx instead of .docx
 
-def extract_text_from_docx(file_path, output_file_path):
+    Args:
+        file_path (str): The path to the file.
+    """
+    filename = os.path.basename(file_path)
+    if filename.endswith(".docx.docx"):
+        os.rename(file_path, file_path.replace(".docx.docx", ".docx"))
+    else:
+        pass
+
+
+def extract_text_from_docx(file_path, output_directory):
     """
     Extract text from a docx file and save it in a txt file.
 
     Args:
         file_path (str): The path to the docx file.
-        output_file_path (str): The path to the directory where the txt file will be saved.
+        output_directory (str): The path to the directory where the txt file will be saved.
     """
     doc = Document(file_path)
     text = []
-    
+
     # Extraction des textes des paragraphes
     for paragraph in doc.paragraphs:
         text.append(paragraph.text)
-    
-    # Extraction des textes des tableaux
-    # for table in doc.tables:
-    #     for row in table.rows:
-    #         for cell in row.cells:
-    #             text.append(cell.text)
-    
+
+    # Create the output directory if it doesn't exist
+    os.makedirs(output_directory, exist_ok=True)
+
     # Ecriture du texte extrait dans un nouveau fichier txt
-    with open(output_file_path + "\\" + os.path.basename(file_path) + ".txt", "w", encoding="utf-8") as f:
+    with open(os.path.join(output_directory, os.path.basename(file_path)[:-5] + ".txt"), "w", encoding="utf-8") as f:
         for line in text:
             f.write(line + "\n")
 
-def move_files(input_directory, output_directory):
-    """
-    Move files from one directory to another.
-
-    Args:
-        input_directory (str): The path to the directory where the files are.
-        output_directory (str): The path to the directory where the files will be moved.
-    """
-    for file in os.listdir(input_directory):
-        if file.endswith(".txt"):
-            shutil.move(os.path.join(input_directory, file), output_directory)
-
 # Set your paths
-directory = glob.glob(os.path.join(ROOT_PATH, r"data\docx\2022_2023\2022_2023_all\Subset_1\docx\*.docx"))
-output_directory = os.path.join(ROOT_PATH, r"data\docx\2022_2023\2022_2023_all\Subset_1\text")
+directory = r"data/text/docx"
+docx_files = glob.glob(directory + "/*.docx")
+output_directory = r"data/text/txt"
 
-for file in tqdm(directory, desc="Extracting text from docx files", unit="files"):
-    if file.endswith(".docx"):
-        extract_text_from_docx(file, output_directory)
-
-# Move the files to the output directory
-# move_files(os.path.join(ROOT_PATH, r"docx\2022_2023\sample_2023"), output_directory)
+if not docx_files:
+    print("No .docx files found in the specified directory.")
+else:
+    for file_path in tqdm(docx_files, desc="Extracting text from docx files", unit="files"):
+        print("le dossier:", file_path, "a été converti")
+        correct_docx_file_path(file_path)
+        extract_text_from_docx(file_path, output_directory)
 
 print("=========")
 print("All done!")

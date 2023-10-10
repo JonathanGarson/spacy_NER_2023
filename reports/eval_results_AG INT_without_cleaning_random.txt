@@ -1,0 +1,20 @@
+=====================================
+Results for AG INT
+=====================================
+
+Mean difference AG INT: 0.08
+Mean true AG INT: 5.653555555555556
+Mean pred AG INT: 3.386
+
+Variance difference AG INT: 0.06104166666666667
+Variance true AG INT: 106.86931434343434
+Variance pred AG INT: 1.8265583333333335
+
+Median difference AG INT: 0.0
+Median true AG INT: 3.0
+Median pred AG INT: 3.0
+
+Comparison with and without cleaning
+Full cells pred AG INT: 25
+Full cells true AG INT: 45
+Empty cells AG INT: 20
