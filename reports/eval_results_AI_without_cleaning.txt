@@ -2,19 +2,17 @@
 Results for AI
 =====================================
 
-Mean difference AI: 0.2588271604938271
-Mean true AI: 5.455749999999999
-Mean pred AI: 2.6444444444444444
+Mean difference AI: 0.2588888888888889
+Mean true AI: 2.5188888888888887
+Mean pred AI: 2.644444444444445
 
-Variance difference AI: 0.3950914197530864
-Variance true AI: 499.4266113005051
-Variance pred AI: 2.0244725000000003
+Variance difference AI: 0.3902123456790123
 
 Median difference AI: 0.0
-Median true AI: 2.0
+Median true AI: 2.5
 Median pred AI: 2.8
 
 Comparison with and without cleaning
 Full cells pred AI: 81
-Full cells true AI: 100
-Empty cells AI: 19
+Full cells true AI: 81
+Empty cells AI: 0

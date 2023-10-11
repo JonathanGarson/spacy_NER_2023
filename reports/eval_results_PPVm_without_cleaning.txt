@@ -3,18 +3,16 @@ Results for PPVm
 =====================================
 
 Mean difference PPVm: 75.12083333333334
-Mean true PPVm: 655.8507142857143
+Mean true PPVm: 694.2008333333334
 Mean pred PPVm: 709.5216666666668
 
-Variance difference PPVm: 100460.66841454798
-Variance true PPVm: 884578.915470497
-Variance pred PPVm: 1032359.447658192
+Variance difference PPVm: 98786.32394097219
 
 Median difference PPVm: 0.0
-Median true PPVm: 400.0
+Median true PPVm: 450.0
 Median pred PPVm: 450.0
 
 Comparison with and without cleaning
 Full cells pred PPVm: 60
-Full cells true PPVm: 70
-Empty cells PPVm: 10
+Full cells true PPVm: 60
+Empty cells PPVm: 0

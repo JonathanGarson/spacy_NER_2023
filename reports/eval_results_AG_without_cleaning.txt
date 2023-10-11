@@ -2,13 +2,11 @@
 Results for AG
 =====================================
 
-Mean difference AG: 0.15151234567901234
-Mean true AG: 5.442843137254902
-Mean pred AG: 3.1769444444444446
+Mean difference AG: 0.1513888888888889
+Mean true AG: 3.1659259259259263
+Mean pred AG: 3.176944444444445
 
-Variance difference AG: 0.31085340275374024
-Variance true AG: 240.67077971677566
-Variance pred AG: 1.528307398753894
+Variance difference AG: 0.3079082561728394
 
 Median difference AG: 0.0
 Median true AG: 3.0
@@ -16,5 +14,5 @@ Median pred AG: 3.0
 
 Comparison with and without cleaning
 Full cells pred AG: 108
-Full cells true AG: 136
-Empty cells AG: 28
+Full cells true AG: 108
+Empty cells AG: 0
