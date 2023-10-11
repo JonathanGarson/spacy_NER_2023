@@ -1,5 +1,20 @@
 import glob
 from tqdm import tqdm
+import os
+
+def correct_text_file_path(file_path):
+    """
+    Correct the file path if it ends with .docx.txt instead of .txt
+
+    Args:
+        file_path (str): The path to the file.
+    """
+    filename = os.path.basename(file_path)
+
+    if filename[:-9] == ".docx.txt" :
+        os.rename(file_path, file_path.replace(".docx.txt", ".txt"))
+    else:
+        pass
 
 def clean_txt(file):
     """
@@ -26,4 +41,9 @@ files = glob.glob(input_directory + '*.txt')
 
 for file in tqdm(files, desc='Cleaning files', unit='files'):
     clean_txt(file)
+    correct_text_file_path(file)
+
+print("=========")
+print("All done!")
+print("=========")
 
