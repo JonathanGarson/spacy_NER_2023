@@ -16,7 +16,7 @@ def correct_docx_file_path(file_path):
         file_path (str): The path to the file.
     """
     filename = os.path.basename(file_path)
-    if filename.endswith(".docx.docx"):
+    if filename[:-10] == ".docx.docx" :
         os.rename(file_path, file_path.replace(".docx.docx", ".docx"))
     else:
         pass
@@ -46,7 +46,7 @@ def extract_text_from_docx(file_path, output_directory):
             f.write(line + "\n")
 
 # Set your paths
-directory = r"data/text/docx"
+directory = r"./data/text/docx"
 docx_files = glob.glob(directory + "/*.docx")
 output_directory = r"data/text/txt"
 
